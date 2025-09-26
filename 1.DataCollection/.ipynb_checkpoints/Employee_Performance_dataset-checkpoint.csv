@@ -1,0 +1,1001 @@
+Name,Age,Gender,Department,Salary,Joining Date,Performance Score,Experience,Status,Location,Session
+Cory Escobar,48,Female,HR,5641,03-05-2015,10,16,Active,New York,Night
+Timothy Sanchez,25,Other,Sales,4249,09-11-2020,2,11,Inactive,Los Angeles,Evening
+Chad Nichols,57,Other,Sales,3058,12-02-2019,4,5,Inactive,New York,Morning
+Christine Williams,58,Female,IT,5895,08-09-2017,2,13,Inactive,Los Angeles,Evening
+Amber Harris,35,Other,IT,4317,15-02-2020,5,16,Inactive,New York,Evening
+Ashley Howe,29,Female,HR,2591,24-06-2016,1,6,Active,Chicago,Evening
+David Olson,39,Female,Sales,6826,11-05-2023,8,4,Active,New York,Night
+Amanda Baker,52,Other,HR,6285,01-04-2015,9,8,Inactive,Chicago,Evening
+Jeremy Wright,63,Female,Sales,9862,07-02-2024,6,3,Inactive,New York,Night
+Brian Faulkner,30,Male,IT,8202,26-05-2018,1,9,Active,Los Angeles,Morning
+Nicole Bell,42,Female,Sales,5336,28-01-2015,3,7,Active,Los Angeles,Evening
+Rodney Richardson,60,Other,HR,6908,14-03-2015,4,19,Active,Chicago,Night
+Joshua Robinson,61,Male,IT,5688,21-06-2020,3,4,Inactive,Chicago,Night
+Benjamin Callahan,34,Male,IT,5593,23-06-2019,2,2,Inactive,Los Angeles,Night
+Matthew Collins MD,31,Female,Sales,8568,01-06-2020,5,20,Inactive,Los Angeles,Evening
+Gary Cooley,62,Male,HR,5386,25-07-2017,4,2,Inactive,Chicago,Morning
+Jonathan Perez,59,Male,HR,6586,19-02-2019,3,7,Inactive,Los Angeles,Evening
+Jacqueline Randall,31,Female,HR,3519,18-05-2018,4,6,Active,New York,Morning
+Nancy Stephens,38,Male,HR,9061,16-07-2017,5,16,Inactive,Chicago,Night
+Victoria Fox,57,Female,HR,7251,07-06-2023,8,10,Active,Los Angeles,Evening
+Heather Jones,35,Male,Sales,4565,07-02-2018,7,9,Active,Chicago,Night
+Stacie Porter,61,Female,HR,4071,04-05-2020,2,9,Inactive,Chicago,Night
+Bryce Carter,35,Female,Sales,9598,16-12-2015,4,4,Inactive,New York,Night
+Marissa Stewart,31,Female,HR,5386,30-01-2021,2,3,Active,Los Angeles,Evening
+Tracy Carlson,21,Male,HR,9275,09-04-2022,4,12,Active,New York,Morning
+Tara Blackwell,30,Other,HR,6120,20-02-2020,5,7,Active,New York,Evening
+Austin Long,20,Female,IT,4899,01-05-2024,5,8,Inactive,Chicago,Night
+Jordan Warren,55,Female,HR,4608,07-07-2018,8,18,Inactive,Los Angeles,Morning
+Vickie Campbell,65,Female,IT,9190,28-10-2019,4,12,Inactive,Chicago,Morning
+Rachel Ramsey,22,Male,Sales,9661,18-08-2016,2,17,Inactive,Chicago,Night
+Brandi Smith,21,Other,IT,4780,20-01-2020,1,7,Inactive,New York,Night
+Jacqueline Becker,63,Other,Sales,4270,16-12-2021,4,20,Inactive,Los Angeles,Morning
+Trevor Duncan,65,Other,Sales,6547,10-06-2024,9,10,Active,Chicago,Evening
+Mr. Brian Nelson,42,Female,IT,5207,17-08-2017,1,4,Active,Los Angeles,Night
+Lisa Fry,51,Female,IT,9259,26-09-2017,4,17,Inactive,Los Angeles,Night
+Kevin Watts,35,Male,IT,9078,12-06-2019,1,7,Inactive,Los Angeles,Evening
+Jacqueline Moore,39,Male,Sales,2364,25-02-2018,1,15,Active,Los Angeles,Evening
+Lawrence Rose,18,Female,HR,2904,11-04-2021,1,17,Inactive,Chicago,Night
+Jordan Scott,33,Other,Sales,8678,15-05-2016,5,9,Active,Los Angeles,Evening
+Lisa Wagner,36,Male,HR,8870,12-08-2024,4,17,Active,Los Angeles,Evening
+Ricky Keith,20,Female,Sales,6621,29-01-2024,8,20,Inactive,Los Angeles,Evening
+Charles Mccall,58,Other,IT,9512,10-11-2024,2,8,Inactive,Los Angeles,Morning
+April Ponce,27,Female,Sales,6655,22-10-2021,3,2,Inactive,Los Angeles,Evening
+Cindy Nichols,64,Female,IT,2427,19-12-2014,7,6,Active,New York,Night
+Daniel Aguirre,20,Other,IT,4184,03-10-2017,9,13,Active,New York,Morning
+Dr. Monica Hanna PhD,27,Other,HR,4356,31-10-2020,8,11,Inactive,New York,Night
+Alicia Scott,47,Female,HR,7966,03-09-2019,3,8,Inactive,New York,Morning
+Jake Johnson,48,Other,IT,5848,03-02-2017,3,2,Active,Los Angeles,Night
+Jamie Wood,46,Male,Sales,2773,25-02-2023,4,9,Active,New York,Morning
+Valerie Guerrero,23,Male,HR,6253,21-09-2023,4,14,Active,Los Angeles,Night
+Jamie Gregory,27,Other,Sales,3253,07-12-2015,10,12,Active,Chicago,Morning
+Jesse Vincent,62,Male,HR,6149,17-09-2023,5,11,Inactive,Chicago,Evening
+Steve Salinas,42,Other,Sales,6567,26-03-2022,2,19,Inactive,Los Angeles,Morning
+Taylor Griffin,62,Other,Sales,5721,07-01-2019,5,7,Active,Chicago,Night
+Kim Smith,63,Other,HR,4533,11-10-2023,4,16,Active,Los Angeles,Night
+Jonathon Adams,40,Female,IT,8745,29-07-2020,6,12,Inactive,Chicago,Night
+Jeremy Conway,38,Other,IT,4954,11-08-2024,9,12,Active,Los Angeles,Night
+Johnathan Obrien,58,Female,Sales,3635,09-04-2021,8,7,Active,New York,Night
+Erik Moss,57,Male,Sales,4651,07-02-2018,8,19,Active,Los Angeles,Night
+Melinda Tyler,19,Other,Sales,5937,12-04-2021,5,9,Inactive,Los Angeles,Evening
+Andrew Shannon,51,Other,Sales,8544,08-02-2020,7,6,Active,New York,Evening
+Carmen Taylor,33,Male,Sales,2851,30-01-2023,2,11,Active,Chicago,Morning
+Joseph Anderson,57,Female,IT,3933,02-06-2023,5,6,Active,Los Angeles,Night
+Katherine Clark,39,Female,IT,2585,17-02-2023,2,1,Active,Los Angeles,Evening
+Mary Miller,20,Other,Sales,3718,19-10-2019,3,4,Active,Los Angeles,Morning
+Sarah Harrell,44,Male,IT,2436,01-01-2021,4,5,Inactive,Chicago,Night
+Kelli Lopez,25,Female,HR,7637,21-09-2021,5,4,Active,Los Angeles,Night
+Denise Smith,27,Male,HR,6921,31-10-2024,2,3,Active,Chicago,Evening
+Alyssa Taylor,29,Male,HR,7554,19-10-2017,8,17,Active,Chicago,Night
+Erica James,64,Female,IT,2442,28-09-2020,9,14,Inactive,Los Angeles,Morning
+Daniel Hamilton,40,Male,Sales,2466,08-04-2018,9,15,Active,Chicago,Evening
+Tiffany Alexander,45,Female,Sales,3897,18-05-2019,4,12,Active,Chicago,Evening
+Jennifer Carter,52,Male,HR,8386,06-04-2016,10,14,Active,Chicago,Morning
+Amanda Rodgers,60,Male,IT,3767,21-03-2018,3,3,Inactive,Los Angeles,Night
+Francisco Jones,18,Female,Sales,8622,01-07-2023,1,13,Inactive,Chicago,Evening
+Cameron Butler,31,Female,IT,8032,20-10-2023,4,11,Inactive,New York,Morning
+Victor Nelson,47,Female,Sales,2025,14-05-2015,1,5,Active,New York,Night
+Kathy Thompson,19,Other,HR,4698,23-02-2016,3,15,Inactive,Chicago,Night
+Michele Schmidt,56,Male,HR,5457,22-05-2016,4,11,Inactive,Chicago,Evening
+Mary Singh,39,Other,IT,5562,06-07-2019,2,7,Inactive,New York,Evening
+Julia Stanley,28,Female,HR,2077,28-07-2021,5,11,Inactive,Los Angeles,Morning
+Kevin Price,62,Male,HR,4292,12-11-2020,2,7,Active,Los Angeles,Night
+Jamie Wright,49,Other,Sales,3111,02-11-2020,7,3,Active,Chicago,Evening
+Elaine Payne,18,Female,IT,5470,23-06-2017,3,8,Active,Los Angeles,Evening
+Justin Rodriguez,39,Other,Sales,3115,01-07-2020,4,4,Active,Chicago,Evening
+Chase Taylor,29,Other,IT,9901,04-10-2017,2,7,Active,Los Angeles,Evening
+Dustin Allen,34,Male,IT,8629,08-01-2015,4,9,Inactive,Chicago,Morning
+Lori Bowen,28,Female,Sales,6839,07-01-2023,5,4,Active,Los Angeles,Evening
+Jessica Sanders,41,Male,HR,6828,02-08-2024,1,10,Inactive,Chicago,Night
+Lauren Lee,60,Female,Sales,8710,16-07-2020,2,10,Inactive,Los Angeles,Evening
+Kyle Schwartz,31,Male,HR,3488,16-03-2023,1,3,Active,New York,Morning
+Bruce Campbell,58,Other,IT,5271,20-12-2023,8,7,Active,Chicago,Night
+Peter Moore,38,Other,Sales,4897,13-03-2021,1,4,Inactive,Chicago,Morning
+Elizabeth Gallagher,21,Female,IT,2860,06-02-2023,4,4,Active,Los Angeles,Night
+Michael Garcia,62,Male,Sales,3482,29-01-2018,3,20,Active,New York,Night
+Jeff Wilson,45,Other,HR,3427,08-06-2024,9,8,Active,Chicago,Evening
+Holly Gaines,22,Male,Sales,5432,14-01-2017,10,14,Inactive,Los Angeles,Morning
+Matthew Fields,33,Female,HR,2378,07-08-2015,7,20,Inactive,Los Angeles,Night
+Kathleen Thomas,20,Other,IT,6768,15-09-2018,5,2,Inactive,Los Angeles,Night
+Thomas Hamilton,33,Male,Sales,8076,24-12-2017,3,9,Inactive,Chicago,Morning
+Bryan Navarro,26,Female,IT,9538,23-01-2021,4,3,Active,New York,Morning
+Jennifer Hansen,27,Other,HR,2912,22-02-2020,2,3,Inactive,New York,Night
+James Saunders,34,Other,IT,6742,16-09-2019,7,8,Active,Los Angeles,Night
+Jose Henson,32,Male,HR,6458,25-03-2023,5,7,Active,Chicago,Evening
+Isaiah Sanders DDS,31,Female,HR,2752,28-04-2021,5,6,Active,Chicago,Night
+Katelyn Chavez,25,Other,HR,7371,06-10-2015,2,13,Inactive,Chicago,Evening
+Nancy Robinson,21,Other,Sales,5133,19-12-2017,9,11,Active,Los Angeles,Evening
+Sandra Allen,24,Male,IT,2578,05-01-2019,5,16,Active,Chicago,Morning
+Mrs. Robin Mccarthy PhD,51,Male,HR,7457,24-04-2019,10,15,Active,Los Angeles,Night
+Catherine Ray,58,Female,Sales,7263,10-12-2017,9,20,Active,New York,Morning
+James Johnson,65,Female,HR,2166,20-08-2016,2,17,Inactive,New York,Morning
+Sarah Barrera,31,Female,Sales,2303,30-10-2021,3,18,Inactive,Los Angeles,Night
+Luke Mcpherson,34,Other,IT,9812,29-01-2016,3,13,Active,New York,Evening
+Michael Moore,65,Other,Sales,4940,26-03-2021,2,11,Active,Los Angeles,Evening
+Donna Manning,40,Other,IT,3935,10-05-2021,5,19,Inactive,Chicago,Morning
+John Lloyd,19,Male,HR,3233,10-05-2017,5,6,Inactive,Chicago,Evening
+Sean Owens,45,Male,HR,4012,09-07-2016,10,10,Inactive,Los Angeles,Night
+Gregory Robinson,32,Other,IT,8619,16-01-2021,7,8,Inactive,New York,Morning
+Tara Hudson,48,Female,IT,2898,02-01-2022,9,12,Inactive,Los Angeles,Morning
+Heidi Franklin,22,Male,HR,7187,26-01-2024,3,1,Active,New York,Morning
+David Hampton,39,Female,HR,9941,06-07-2024,3,15,Inactive,New York,Morning
+Jacob Gonzalez,25,Male,IT,5121,12-06-2020,3,1,Active,Chicago,Night
+Kenneth Jensen,46,Other,IT,7991,21-04-2017,6,13,Inactive,Los Angeles,Morning
+Amber Pittman,24,Female,Sales,5287,08-03-2018,2,1,Active,New York,Evening
+William Hall,23,Male,Sales,3754,16-10-2022,9,8,Active,Chicago,Evening
+Michael Wilson,38,Other,IT,2358,25-12-2016,3,14,Active,New York,Morning
+Vanessa Gray,65,Other,Sales,8122,27-11-2015,8,15,Active,Los Angeles,Night
+Ashley Williams,65,Female,HR,9973,03-05-2020,4,19,Inactive,New York,Morning
+Shawn Marshall,28,Other,IT,2488,21-01-2019,6,6,Active,Los Angeles,Morning
+Derrick Woods,64,Female,IT,7378,22-09-2019,6,18,Inactive,New York,Evening
+Lisa Levy,64,Other,IT,7647,07-07-2021,5,8,Active,Los Angeles,Evening
+Amy Patel,38,Other,HR,2052,07-08-2020,7,9,Inactive,Chicago,Evening
+Gregory Villegas,64,Female,Sales,5723,26-06-2021,4,19,Inactive,New York,Evening
+Arthur Tyler,30,Other,Sales,3856,19-01-2022,7,13,Inactive,Chicago,Evening
+Jonathan Schneider,33,Male,Sales,3843,03-08-2023,5,18,Inactive,Chicago,Morning
+Donna Fox,49,Male,Sales,3128,29-09-2023,2,6,Inactive,Los Angeles,Morning
+Rebecca Pitts,56,Female,Sales,8154,29-06-2017,5,9,Inactive,Chicago,Morning
+Annette Peterson,34,Female,Sales,4286,17-05-2020,5,7,Active,Chicago,Morning
+Mr. James Moore,46,Other,Sales,3829,21-08-2021,8,11,Inactive,Chicago,Morning
+William Hernandez,27,Other,IT,8855,18-11-2020,4,18,Inactive,Chicago,Morning
+Kevin Ruiz,18,Male,IT,8733,15-08-2020,2,19,Inactive,Chicago,Night
+Matthew Gutierrez,38,Other,Sales,5883,22-10-2024,4,14,Inactive,Chicago,Evening
+Kelly Phillips,42,Female,Sales,3591,17-07-2020,5,20,Inactive,Los Angeles,Morning
+Dana Potter,46,Male,IT,6368,07-04-2024,6,2,Inactive,New York,Evening
+Kimberly Murphy,25,Other,HR,3003,14-05-2019,10,19,Active,New York,Morning
+Jessica Hernandez,20,Male,IT,4757,07-07-2017,7,8,Inactive,Chicago,Morning
+Rachel Allen,22,Other,IT,8152,30-01-2018,5,4,Active,New York,Evening
+Mr. Brandon Gonzales,37,Female,Sales,6429,23-09-2023,2,10,Inactive,Chicago,Morning
+Matthew Perkins,57,Other,IT,3757,12-07-2023,6,19,Inactive,New York,Evening
+Robert Adkins,28,Female,Sales,8198,23-10-2020,1,15,Inactive,New York,Evening
+Anthony Moran,54,Female,Sales,2364,28-09-2017,6,5,Inactive,Chicago,Morning
+Julie Wilson,58,Male,Sales,2621,26-08-2018,9,16,Active,New York,Evening
+Mark Morris,31,Male,IT,4451,31-12-2017,3,1,Inactive,Chicago,Night
+Charles Marsh,29,Male,HR,4056,01-11-2023,7,17,Inactive,New York,Morning
+Larry Johnson,63,Other,IT,5746,20-11-2018,5,5,Inactive,New York,Night
+Raymond Johnson,56,Female,IT,5982,03-12-2016,5,11,Inactive,New York,Morning
+Pamela Pierce,43,Female,HR,4710,26-06-2021,1,16,Active,New York,Night
+Debra Smith,19,Other,HR,4527,28-04-2015,3,14,Active,Chicago,Night
+Erin Harrison,34,Male,HR,9719,31-07-2019,2,2,Inactive,Chicago,Evening
+Thomas Gordon,26,Male,HR,6157,30-04-2018,9,15,Active,New York,Night
+Cindy Torres,31,Male,IT,8428,17-09-2024,4,11,Inactive,New York,Evening
+Mario Newman,36,Other,IT,3284,20-04-2015,6,15,Inactive,Los Angeles,Night
+Emily Hughes,32,Male,IT,8958,15-03-2017,8,17,Active,Los Angeles,Morning
+Emily Fisher,25,Male,HR,9021,15-09-2016,6,11,Inactive,Chicago,Night
+Sheryl Everett DDS,57,Male,Sales,3479,15-11-2017,10,13,Inactive,New York,Morning
+Caleb Coffey,49,Other,HR,6194,12-05-2024,1,19,Inactive,New York,Evening
+Brianna Murray,28,Other,IT,3862,21-10-2018,6,3,Inactive,Chicago,Night
+Amy Bell,56,Male,IT,6006,21-10-2023,8,4,Active,New York,Morning
+Tonya Estrada,22,Other,Sales,2523,10-08-2022,2,4,Inactive,Chicago,Evening
+George Bowers,24,Other,Sales,6041,07-12-2024,2,4,Active,New York,Night
+Tyler Figueroa,48,Female,Sales,2913,04-12-2020,2,6,Active,New York,Evening
+Roger Pugh,64,Other,HR,6767,14-04-2023,3,11,Inactive,Los Angeles,Evening
+Paul Ross,19,Other,Sales,6735,26-01-2022,6,12,Active,Los Angeles,Morning
+Steven Green,21,Other,IT,4043,10-10-2015,3,20,Inactive,Chicago,Morning
+Amanda Walters,46,Other,Sales,8354,26-10-2015,9,10,Active,Los Angeles,Night
+Cody Sanchez,32,Female,Sales,5224,27-01-2019,10,15,Active,Los Angeles,Evening
+Sherri Hess,37,Female,Sales,6706,29-05-2021,3,9,Inactive,Los Angeles,Night
+David Buchanan,52,Male,Sales,8899,12-01-2016,7,17,Active,Chicago,Evening
+Daniel Hoffman,36,Male,IT,7885,04-06-2016,2,2,Inactive,New York,Evening
+Kathryn Choi,34,Other,IT,3671,08-05-2021,6,16,Active,Los Angeles,Night
+Sharon Patterson,33,Male,HR,6833,04-02-2015,8,16,Active,New York,Night
+Brooke Norris,58,Male,IT,5025,24-10-2020,10,13,Inactive,Los Angeles,Night
+Linda Wilson,45,Male,IT,3979,07-03-2024,3,12,Active,New York,Evening
+Nathaniel Miller,22,Male,Sales,8840,17-01-2023,7,17,Active,New York,Evening
+Michael Edwards,19,Other,Sales,8470,20-12-2016,4,1,Inactive,Los Angeles,Evening
+Jane Gardner,51,Other,Sales,7894,29-12-2014,7,11,Inactive,Los Angeles,Night
+Anthony Lucas,48,Female,HR,3064,26-08-2023,4,11,Active,New York,Evening
+Robert Colon,39,Other,HR,2149,10-05-2023,4,17,Active,New York,Night
+Patrick Williams,50,Other,IT,3737,07-08-2021,3,4,Active,New York,Evening
+Tiffany Hopkins,21,Female,HR,7708,10-11-2021,9,20,Active,Los Angeles,Night
+Miguel Finley,25,Female,IT,9374,22-08-2019,6,15,Active,New York,Evening
+John Sullivan,29,Other,IT,3049,29-08-2018,4,2,Inactive,New York,Night
+Albert Stevens,29,Other,HR,2776,24-02-2021,2,1,Active,Chicago,Night
+Dean Barnes,54,Other,IT,4678,18-01-2019,4,6,Active,Chicago,Morning
+Eric York,34,Male,HR,3397,25-06-2022,4,2,Active,Los Angeles,Evening
+Breanna Ballard,20,Other,Sales,3386,31-08-2020,1,1,Inactive,New York,Evening
+Joshua Booker,22,Male,HR,6539,12-07-2022,0,2,Active,Los Angeles,Night
+Mary King,23,Female,HR,3175,21-05-2021,6,9,Active,New York,Evening
+Jennifer Brown DVM,51,Male,HR,7908,14-04-2023,1,2,Inactive,Chicago,Evening
+Gregory Cohen,23,Other,Sales,8119,01-01-2018,4,5,Inactive,Chicago,Morning
+Mr. James Johnson,48,Female,HR,9930,04-08-2019,5,19,Active,Chicago,Morning
+Elizabeth Jordan,23,Other,HR,3514,01-10-2018,3,1,Inactive,Los Angeles,Morning
+Robert Carey,59,Female,IT,6267,12-01-2021,5,6,Inactive,New York,Morning
+Randy Pace,28,Male,HR,8416,21-02-2022,9,8,Active,Los Angeles,Morning
+Brian Herrera,29,Other,Sales,5703,16-12-2018,2,10,Active,New York,Morning
+Julie Hayden,55,Female,IT,2127,09-02-2019,7,8,Active,Los Angeles,Evening
+Mario Jackson,43,Male,IT,8563,28-12-2017,4,11,Active,Los Angeles,Night
+Dawn Flowers,24,Female,IT,7539,05-02-2021,4,5,Active,Los Angeles,Night
+Darrell Burns,58,Other,Sales,2223,29-06-2024,6,8,Active,New York,Morning
+Mr. Jason Jones,44,Female,HR,3517,11-01-2022,5,10,Inactive,Chicago,Morning
+Joseph Li,42,Male,HR,4603,30-07-2016,2,12,Inactive,New York,Night
+Christopher Barrera,62,Other,HR,4751,27-10-2022,1,3,Inactive,New York,Morning
+Tyler Carroll,54,Female,IT,6942,02-02-2021,3,5,Inactive,New York,Morning
+Rachel Mcdonald,32,Female,Sales,2489,11-12-2015,5,3,Inactive,Chicago,Morning
+Dawn Nelson,65,Female,IT,4538,01-02-2016,3,8,Active,Chicago,Morning
+Sara Jones,50,Female,Sales,9377,16-10-2019,3,3,Active,Los Angeles,Morning
+Alison Anderson,35,Female,Sales,8129,29-06-2024,2,3,Inactive,New York,Evening
+Jeffery Hurley,25,Male,IT,7335,05-11-2017,5,3,Active,Los Angeles,Night
+Melissa Flores,38,Other,Sales,3663,14-06-2016,3,3,Inactive,New York,Evening
+Erika Schneider,20,Other,IT,4328,01-05-2018,2,12,Active,Los Angeles,Morning
+Steven Salinas,48,Female,HR,7067,23-11-2023,7,8,Inactive,Los Angeles,Morning
+Kenneth Taylor,20,Other,Sales,6389,05-03-2017,6,6,Inactive,New York,Evening
+Jennifer Hartman,62,Female,IT,7732,20-08-2020,8,18,Active,New York,Morning
+Cheryl Potter,59,Male,IT,3379,30-07-2018,,8,Inactive,Los Angeles,Morning
+Lori Rodriguez,27,Other,IT,3660,15-12-2023,9,9,Active,Los Angeles,Night
+Brian White,51,Other,IT,9160,27-04-2017,,15,Inactive,Los Angeles,Night
+Ashley Robbins,49,Other,HR,8733,06-02-2019,,2,Inactive,Los Angeles,Morning
+Mary Mcguire,45,Other,IT,8587,21-01-2019,2,18,Active,Chicago,Morning
+Christie Warren,51,Female,Sales,9139,16-08-2020,5,1,Active,Chicago,Night
+Monica Henderson,39,Male,IT,7250,11-07-2016,4,1,Active,Chicago,Morning
+Connie Lucas,41,Other,HR,4782,09-12-2015,4,7,Inactive,Los Angeles,Morning
+William Harris,26,Female,Sales,6975,26-03-2016,10,14,Active,New York,Evening
+Michelle Mendez,50,Male,IT,8718,17-07-2024,1,18,Active,Chicago,Morning
+Richard Mendez,40,Male,Sales,7461,13-04-2022,3,7,Inactive,Chicago,Night
+Stuart Rodriguez,33,Other,Sales,7974,15-02-2017,6,7,Active,Los Angeles,Night
+Curtis Diaz,42,Other,IT,4401,17-11-2022,1,9,Inactive,New York,Night
+Joan Trevino,46,Male,Sales,8607,21-01-2019,5,3,Inactive,New York,Night
+Gregory Pollard,49,Other,HR,3659,11-01-2023,4,10,Inactive,Chicago,Morning
+Lori Petty,65,Other,Sales,6332,09-05-2015,6,12,Active,Chicago,Evening
+Christina Gutierrez,37,Male,Sales,9356,02-01-2018,3,3,Active,Chicago,Morning
+Ashley Kim,33,Male,IT,2996,10-11-2023,8,11,Inactive,Chicago,Evening
+Jennifer Wilson,54,Male,HR,9516,19-10-2021,1,8,Inactive,Chicago,Night
+Scott Russell,35,Other,IT,2847,19-02-2020,9,11,Active,Los Angeles,Morning
+Evan Blackburn,26,Other,HR,8181,19-02-2016,7,14,Inactive,Los Angeles,Night
+Justin Hampton,55,Male,IT,7725,22-11-2024,1,10,Inactive,New York,Morning
+Marie Reese,60,Male,Sales,7911,24-03-2019,9,7,Active,Chicago,Evening
+Sheila Gordon,50,Other,Sales,2550,17-12-2021,,15,Inactive,New York,Evening
+Jessica Davis,22,Male,IT,2649,21-09-2024,,8,Inactive,Chicago,Night
+Tyler Carter,65,Female,IT,8882,23-11-2018,4,2,Active,New York,Morning
+David Burke,25,Female,HR,2994,21-09-2015,9,14,Active,Chicago,Morning
+Joshua Bullock,38,Male,Sales,9924,10-01-2019,4,20,Inactive,Chicago,Night
+Gabriel Peters,50,Other,IT,3091,15-05-2015,1,16,Active,Los Angeles,Morning
+Christine Duran,61,Male,IT,3063,18-03-2018,1,4,Active,New York,Morning
+Nancy Mendez,44,Other,HR,5443,20-04-2018,1,9,Inactive,Chicago,Evening
+Susan Fisher,45,Male,HR,9207,05-01-2020,4,4,Active,Los Angeles,Morning
+Meghan Burgess,49,Male,HR,3081,23-08-2017,4,5,Inactive,New York,Night
+Jeffery Jackson,19,Female,IT,4084,23-08-2022,3,7,Active,Los Angeles,Night
+David Tran,18,Other,Sales,4520,24-01-2021,2,4,Inactive,New York,Evening
+Karina Harris,40,Female,HR,4123,09-10-2022,4,6,Inactive,New York,Morning
+Bradley Gibbs,35,Other,IT,9624,04-03-2019,1,19,Inactive,Los Angeles,Night
+Stephen Mitchell,52,Female,IT,4322,29-07-2022,3,4,Active,New York,Night
+Gabriel Warren,18,Other,IT,7774,21-12-2015,8,12,Inactive,Los Angeles,Morning
+James Hines,58,Male,IT,3439,13-12-2022,9,16,Active,Los Angeles,Evening
+Gabriela Wilson,40,Other,Sales,9455,19-11-2023,1,14,Active,Los Angeles,Morning
+Kara Wilson,31,Male,IT,7692,01-09-2018,1,19,Inactive,Los Angeles,Night
+John Butler,65,Other,Sales,8334,28-05-2024,2,15,Active,New York,Evening
+Jared Villanueva,50,Male,IT,5970,23-06-2016,2,4,Active,New York,Morning
+Mary Hammond,19,Other,HR,3504,04-04-2020,7,14,Active,Chicago,Night
+Margaret Mayo,30,Female,HR,4107,02-12-2018,3,14,Inactive,Chicago,Night
+Ray Smith,31,Other,Sales,5819,20-08-2023,5,8,Inactive,Los Angeles,Morning
+Derek Morris,30,Female,IT,5472,07-01-2024,6,6,Inactive,New York,Evening
+Carrie Martinez,65,Other,Sales,2417,18-06-2021,2,17,Active,Chicago,Morning
+Thomas Spence,25,Female,IT,8613,20-11-2016,10,3,Inactive,Chicago,Night
+Carrie Sloan,30,Other,HR,4347,16-01-2018,4,6,Inactive,New York,Morning
+Mrs. Kimberly Woodard MD,48,Female,Sales,7287,06-03-2019,1,9,Active,Los Angeles,Night
+Harry Alexander,22,Male,Sales,9749,15-05-2019,7,5,Active,Los Angeles,Morning
+David Cox,45,Female,IT,4514,11-06-2022,4,2,Active,Los Angeles,Morning
+Sheryl Gray,22,Other,Sales,4226,01-10-2024,8,8,Active,Chicago,Morning
+Michael Bishop,49,Male,IT,7561,31-12-2016,9,14,Active,Chicago,Evening
+Dalton Moore,39,Female,IT,5956,16-04-2015,4,16,Inactive,Los Angeles,Morning
+Caroline Bell,49,Other,IT,2175,09-05-2022,8,16,Active,Chicago,Morning
+Vanessa Shelton,42,Other,Sales,5756,12-09-2019,5,13,Active,Chicago,Morning
+Scott White,45,Other,Sales,4104,18-09-2017,3,5,Active,Chicago,Evening
+Richard Smith,18,Male,Sales,2364,27-11-2016,2,12,Active,Los Angeles,Morning
+Daniel Rodriguez,63,Male,HR,8704,28-09-2021,4,10,Inactive,Los Angeles,Morning
+Mr. Kevin Bradley,29,Female,Sales,2993,14-02-2015,,8,Inactive,Los Angeles,Morning
+Judith Evans,20,Other,IT,4409,30-10-2015,10,20,Inactive,New York,Night
+Michele Roman,60,Other,HR,3162,14-06-2017,9,20,Active,New York,Night
+Barry Mckenzie,54,Other,Sales,5523,21-02-2020,,9,Inactive,Chicago,Night
+Sara Stokes,30,Female,IT,9921,01-10-2018,3,2,Inactive,New York,Morning
+Rebecca Bailey,25,Male,IT,7864,12-12-2015,3,19,Inactive,Los Angeles,Morning
+Rachel Sosa,47,Other,IT,8158,07-02-2022,2,6,Inactive,Chicago,Night
+Amy Hubbard,29,Male,HR,5883,26-06-2016,4,18,Inactive,New York,Evening
+Gary Grant,41,Other,IT,3174,05-09-2017,2,16,Inactive,New York,Night
+Kimberly Smith,24,Other,Sales,7332,28-11-2020,2,10,Active,New York,Night
+Jennifer Nichols,21,Other,HR,4009,22-02-2015,2,13,Inactive,Los Angeles,Night
+Rachel Robinson,20,Male,IT,8316,09-02-2021,,5,Inactive,New York,Night
+Brandon Atkinson,55,Female,Sales,2414,02-11-2020,3,4,Active,Chicago,Night
+Dawn Mclaughlin,45,Male,Sales,2330,17-07-2015,,17,Inactive,New York,Evening
+Terry Smith,38,Female,Sales,9375,23-12-2022,9,2,Inactive,New York,Morning
+Alejandro Bennett,31,Female,HR,7039,26-01-2021,7,18,Active,Chicago,Evening
+Patricia Williams,26,Female,Sales,8385,17-10-2023,5,15,Active,New York,Evening
+Jose Sharp,31,Other,IT,3002,02-09-2018,1,9,Active,Los Angeles,Morning
+Sarah Stark,27,Female,HR,6648,04-02-2019,,18,Inactive,Los Angeles,Evening
+Mark Thomas,55,Male,Sales,7545,30-10-2017,,11,Inactive,New York,Night
+Alexander Johnson,36,Other,Sales,7992,20-04-2024,2,7,Active,New York,Morning
+Henry Harmon,57,Male,HR,9161,02-08-2022,,5,Inactive,Los Angeles,Morning
+Nancy Jackson,63,Male,Sales,4979,22-09-2015,1,6,Inactive,Los Angeles,Morning
+Taylor Walters,49,Other,HR,7149,30-12-2023,,3,Inactive,Chicago,Night
+Abigail Rodriguez,33,Female,Sales,3636,22-04-2017,4,7,Active,Chicago,Morning
+Dr. Susan Cook,51,Female,Sales,4572,28-07-2020,4,20,Inactive,Los Angeles,Night
+John Jensen,58,Other,IT,3700,17-04-2023,,16,Active,New York,Night
+Sean Barrett,26,Female,Sales,3495,03-01-2015,1,18,Active,Los Angeles,Night
+Kenneth Brown,33,Male,Sales,4391,03-05-2020,5,6,Inactive,Los Angeles,Night
+Samantha Clark DDS,45,Other,IT,3700,28-02-2016,3,2,Inactive,New York,Evening
+Cynthia Cox,46,Other,IT,8499,08-12-2022,,4,Inactive,Los Angeles,Night
+Jamie Gonzalez,43,Other,IT,7956,14-06-2023,,1,Active,Chicago,Evening
+Joseph Thomas,63,Other,Sales,6741,16-03-2021,4,7,Active,Los Angeles,Night
+Brent Montes,61,Female,Sales,7087,27-09-2024,2,11,Active,Los Angeles,Night
+Elizabeth Dudley,58,Other,IT,6233,30-04-2024,1,1,Inactive,Los Angeles,Morning
+Alexa Romero,22,Other,HR,7299,26-10-2019,2,6,Inactive,Chicago,Night
+Jerry Smith,39,Male,Sales,7014,03-04-2018,,7,Inactive,New York,Morning
+James Smith,53,Male,Sales,7727,13-03-2021,,16,Inactive,Los Angeles,Morning
+Anthony Lam,46,Male,HR,8306,14-11-2024,5,15,Active,New York,Evening
+Tom Diaz,61,Male,HR,3002,05-12-2023,,5,Inactive,Chicago,Morning
+Vanessa Gill,26,Female,IT,2156,16-12-2021,,16,Inactive,Los Angeles,Morning
+Robert Hensley,27,Female,IT,5280,24-06-2016,,19,Inactive,New York,Evening
+Matthew Guerrero,22,Female,HR,7928,11-05-2021,3,1,Active,Los Angeles,Night
+Jennifer Vargas,41,Other,IT,6164,13-12-2017,1,11,Inactive,Chicago,Morning
+Taylor Lopez,32,Male,IT,5502,13-04-2021,4,9,Active,New York,Morning
+Juan Dean,39,Male,HR,6830,28-06-2015,4,20,Inactive,New York,Evening
+Karen Hayden,52,Male,Sales,5380,23-04-2020,,8,Active,Chicago,Evening
+Heather Anderson,38,Female,Sales,6259,13-06-2016,4,5,Active,New York,Night
+Austin Reyes,25,Female,IT,8301,16-04-2020,,14,Active,Los Angeles,Morning
+Melissa Fisher,56,Male,HR,6496,20-10-2018,2,11,Active,Los Angeles,Night
+Danny Allen,35,Male,HR,3656,10-10-2016,2,16,Inactive,New York,Night
+Jose Costa,58,Other,IT,4908,25-09-2015,,18,Inactive,New York,Night
+Michelle Brennan,60,Other,HR,9385,29-09-2024,2,15,Inactive,Chicago,Night
+Amanda Conner,32,Female,IT,4750,25-04-2017,,8,Active,Los Angeles,Night
+Christopher Jones,47,Other,IT,4528,05-06-2024,5,7,Active,Chicago,Morning
+Tyrone Juarez,25,Other,IT,8628,15-03-2018,,12,Active,New York,Night
+Chad Nelson,38,Male,HR,8438,16-09-2023,3,7,Inactive,Chicago,Morning
+Zachary Gutierrez,45,Other,HR,3491,03-06-2019,,15,Inactive,New York,Night
+Mark Mcbride,52,Male,IT,8000,05-03-2023,,7,Inactive,New York,Evening
+Debra Mcdonald,25,Other,IT,3256,25-11-2023,,19,Inactive,Chicago,Morning
+Luis Sanchez,56,Female,HR,2254,31-10-2017,5,8,Inactive,Chicago,Morning
+David Durham,62,Female,HR,7803,20-12-2019,,8,Active,Los Angeles,Night
+Claire Randall,59,Other,IT,2593,29-07-2016,2,14,Inactive,Los Angeles,Evening
+Rebecca Stewart,42,Female,IT,2614,13-10-2015,,18,Inactive,Chicago,Evening
+Ryan Cox,44,Male,IT,7895,17-06-2019,5,13,Active,Chicago,Evening
+Andrew Fletcher,46,Other,HR,8006,23-07-2023,1,6,Inactive,Los Angeles,Morning
+Nicole Sanchez,19,Female,IT,7335,09-01-2019,5,3,Inactive,Los Angeles,Morning
+Paul Walters,39,Female,Sales,3353,12-11-2017,,15,Active,Los Angeles,Night
+Melissa Johnson,30,Male,Sales,7252,27-11-2021,4,14,Active,New York,Morning
+Karen Ramos,45,Female,HR,4213,12-11-2016,3,12,Inactive,Los Angeles,Night
+Laura Castillo,41,Male,IT,2392,15-03-2024,1,20,Inactive,Chicago,Morning
+James Anderson,55,Other,Sales,8344,10-10-2015,2,19,Active,Los Angeles,Evening
+Andre Hall,61,Male,Sales,2928,04-08-2018,,15,Active,Los Angeles,Evening
+Scott Hernandez,31,Female,IT,3830,26-12-2019,,5,Inactive,Los Angeles,Morning
+Wendy Lee,63,Female,HR,6886,30-12-2018,2,18,Inactive,Los Angeles,Morning
+Tony Ellison,20,Other,IT,4275,26-08-2022,,8,Active,New York,Evening
+Samuel Irwin,51,Male,Sales,4503,15-03-2020,,5,Active,Chicago,Night
+Mr. Timothy Mitchell DDS,29,Female,IT,7903,22-01-2018,,1,Active,New York,Night
+Linda Wall,49,Other,HR,6590,09-03-2023,,15,Active,Los Angeles,Night
+Mrs. Jacqueline Woodard MD,41,Female,Sales,5988,03-02-2016,5,2,Inactive,Chicago,Morning
+Johnny Cook,52,Other,Sales,3504,12-02-2022,4,9,Inactive,Los Angeles,Morning
+Miss Barbara Short,50,Female,Sales,7153,07-08-2024,,1,Inactive,New York,Night
+Adam Lane,20,Other,HR,7485,16-09-2015,1,2,Active,Chicago,Morning
+Natasha Spencer,23,Male,HR,7559,09-04-2022,,20,Active,New York,Night
+Dawn Sanchez,49,Other,HR,5850,11-10-2020,,17,Inactive,New York,Morning
+Robert Sims,28,Male,HR,4984,21-12-2023,,12,Inactive,Chicago,Evening
+Allison Carroll,21,Female,IT,9474,24-05-2016,4,4,Inactive,Chicago,Evening
+Dominic Gray,61,Other,HR,6231,01-04-2015,,15,Active,Chicago,Morning
+Eric Hill,22,Male,HR,8147,16-06-2019,,17,Active,Los Angeles,Evening
+Anthony Baldwin,42,Male,IT,9067,15-03-2017,5,5,Active,New York,Morning
+Jeffrey Nguyen,58,Other,HR,2489,20-03-2018,2,1,Inactive,Chicago,Evening
+Jonathon Mclaughlin,64,Female,Sales,5606,05-08-2015,5,19,Active,New York,Evening
+John Anderson,63,Male,Sales,6013,28-09-2023,,10,Active,Chicago,Night
+Amy Harvey,26,Female,Sales,3556,06-11-2021,,1,Active,Chicago,Night
+Dustin Le,29,Male,Sales,9726,13-04-2015,1,2,Inactive,Chicago,Evening
+Kenneth Davis,28,Male,HR,6610,08-06-2020,,12,Inactive,New York,Morning
+David Marshall,43,Other,Sales,9269,05-10-2018,2,13,Inactive,Los Angeles,Evening
+Kelly Norton,30,Female,IT,7241,18-12-2014,4,1,Inactive,New York,Morning
+Wendy Taylor,28,Female,IT,7632,16-05-2020,5,12,Inactive,Los Angeles,Evening
+Monica Baldwin,33,Female,Sales,7941,24-08-2017,,14,Active,Los Angeles,Night
+Joseph Martin,61,Other,HR,8450,17-11-2023,,2,Inactive,New York,Evening
+Omar Martinez,32,Male,IT,7537,30-05-2018,,10,Active,New York,Night
+Corey Smith,27,Other,Sales,2593,27-07-2017,1,20,Active,New York,Evening
+Maria Bowman,43,Other,IT,2355,29-03-2015,,5,Active,Chicago,Morning
+Sandra Gill,40,Female,HR,2567,24-08-2016,,15,Active,Chicago,Evening
+Chloe Newman,32,Other,Sales,8745,01-08-2019,5,13,Inactive,Los Angeles,Evening
+Heather Jones,32,Female,HR,6309,25-03-2023,5,5,Active,Los Angeles,Evening
+Natalie Chavez DDS,20,Other,IT,7431,07-09-2022,5,8,Inactive,New York,Night
+Marilyn Baker,34,Female,IT,8079,05-06-2024,2,18,Active,Chicago,Morning
+Robert Oliver,22,Male,HR,8844,29-05-2019,1,14,Active,New York,Morning
+Mary Mcmillan,64,Male,IT,5850,05-06-2015,2,4,Active,New York,Morning
+Carolyn Arnold,37,Male,HR,8104,24-11-2020,,20,Active,Los Angeles,Morning
+Sarah Ruiz,57,Male,Sales,6316,07-01-2022,1,13,Active,New York,Morning
+Christina Lewis,22,Female,HR,9294,04-05-2020,,11,Inactive,Chicago,Evening
+Bradley Hernandez,63,Male,Sales,2418,21-08-2018,,7,Active,Los Angeles,Night
+Allen Miller,35,Female,Sales,6638,31-12-2016,,13,Active,Chicago,Morning
+Nathan Flores,52,Female,IT,4967,25-10-2019,1,3,Inactive,Los Angeles,Night
+Briana Martin,59,Male,Sales,4496,22-05-2023,1,20,Inactive,New York,Night
+David Clark,40,Female,IT,9276,27-09-2016,,12,Active,Chicago,Morning
+Leroy Jones,20,Other,IT,6520,25-05-2021,,2,Active,Chicago,Morning
+Heather Scott,57,Male,Sales,9505,18-08-2024,3,6,Inactive,New York,Night
+Vanessa Mendoza,31,Other,IT,9268,27-07-2017,,5,Active,Chicago,Evening
+George Weaver,22,Female,HR,7728,24-09-2017,2,17,Active,Los Angeles,Night
+Doris Cooper,56,Female,IT,5092,09-08-2015,5,19,Inactive,Chicago,Evening
+Bruce Anderson,51,Male,HR,6689,21-05-2023,3,18,Inactive,Los Angeles,Evening
+Kimberly Reed,64,Male,Sales,4303,14-08-2015,,8,Inactive,Los Angeles,Morning
+Tammy Allison,52,Female,Sales,3739,29-06-2016,5,5,Active,Los Angeles,Evening
+Dale Mejia,27,Male,Sales,4777,25-10-2023,5,12,Active,Chicago,Morning
+Jacob Kelley,41,Other,HR,7380,25-10-2023,,13,Active,Los Angeles,Morning
+Matthew Hampton,37,Male,Sales,3524,22-07-2016,,12,Inactive,Los Angeles,Night
+Brandon Smith,43,Female,IT,4117,20-10-2015,,5,Active,Los Angeles,Night
+Cynthia Hall,51,Other,Sales,2370,26-02-2018,,5,Inactive,Chicago,Evening
+Angel Fuller,39,Male,HR,3677,04-08-2015,,3,Active,New York,Evening
+Sonia Davis,27,Male,HR,5837,16-11-2024,,14,Active,New York,Morning
+Terry Gomez,64,Male,Sales,8406,20-10-2024,,7,Active,Chicago,Evening
+Travis Brown,49,Female,HR,5735,13-04-2019,,4,Inactive,Chicago,Morning
+Dylan Dixon,19,Female,IT,8798,07-06-2015,5,15,Active,Los Angeles,Evening
+James Newton,30,Male,IT,5836,05-03-2023,,11,Active,New York,Evening
+Antonio Shields,46,Male,HR,7729,11-04-2022,3,7,Inactive,Los Angeles,Night
+Tricia Coleman,49,Male,Sales,4385,14-08-2019,,1,Inactive,Los Angeles,Morning
+Ryan Munoz,45,Male,Sales,5367,02-04-2023,,13,Inactive,Los Angeles,Morning
+Patricia Scott,52,Male,HR,2041,22-11-2022,1,8,Inactive,Chicago,Evening
+Ashley Gonzales,41,Other,Sales,3720,16-08-2015,2,15,Inactive,Los Angeles,Morning
+Vicki Carter,29,Other,Sales,7080,12-09-2015,4,4,Inactive,New York,Morning
+Matthew Turner,62,Female,IT,4753,13-06-2020,,20,Active,Los Angeles,Morning
+James Melton,46,Other,Sales,6746,31-07-2019,5,16,Inactive,Los Angeles,Night
+Kayla Gregory,38,Male,Sales,7860,25-01-2023,3,8,Inactive,Los Angeles,Night
+Bryan Medina,41,Other,HR,9516,07-04-2021,3,13,Inactive,New York,Evening
+Cameron Harris,26,Female,HR,6763,19-04-2017,1,16,Active,Los Angeles,Morning
+Richard Rich,27,Female,IT,7375,31-01-2023,2,16,Inactive,Los Angeles,Evening
+Jason Robertson,37,Male,HR,5439,23-06-2016,2,14,Active,Chicago,Morning
+Philip Huff,51,Male,HR,6877,19-07-2018,,4,Inactive,Chicago,Morning
+Kristie Nelson,41,Other,IT,8618,04-12-2023,,6,Inactive,Los Angeles,Night
+Mrs. Lisa Suarez,56,Male,IT,8236,06-11-2023,,2,Inactive,Los Angeles,Morning
+Nicholas Wilson,60,Other,IT,7865,08-09-2015,2,8,Active,New York,Morning
+Catherine Jordan,43,Female,Sales,4246,12-06-2019,,11,Active,Los Angeles,Evening
+Michele Ruiz,53,Other,IT,5333,05-01-2023,,19,Active,New York,Evening
+Kimberly Sparks,26,Other,Sales,9146,29-07-2024,3,3,Inactive,New York,Evening
+Joseph Oconnor,65,Female,IT,6442,19-01-2019,4,14,Active,New York,Evening
+Joseph Armstrong,48,Female,HR,4183,03-10-2020,4,6,Active,Chicago,Evening
+Stephen Little,26,Other,Sales,4741,30-10-2021,,12,Inactive,New York,Morning
+Melissa Clark,45,Female,HR,8888,11-08-2023,,13,Active,Chicago,Evening
+Michelle Robertson,57,Female,HR,8958,07-06-2021,1,1,Active,Chicago,Morning
+Nathan Rodriguez,29,Other,HR,8526,08-12-2021,,2,Inactive,Los Angeles,Morning
+Marissa Hunt,40,Male,Sales,4566,18-10-2021,,2,Inactive,Chicago,Night
+Steve Adams,63,Other,Sales,2663,31-07-2019,,16,Active,Los Angeles,Evening
+Crystal Reyes,41,Female,Sales,3824,20-10-2018,,9,Active,New York,Morning
+Lindsey Hall,23,Other,IT,2978,17-05-2022,2,5,Active,Chicago,Evening
+Jay Clark,54,Other,IT,4395,21-09-2019,2,18,Inactive,Los Angeles,Evening
+Michael Reeves,21,Female,HR,3294,20-05-2019,,13,Inactive,Chicago,Evening
+Nicole Baxter,34,Other,IT,8946,04-12-2023,,14,Inactive,Chicago,Night
+Cheryl Davila,55,Male,Sales,6737,15-01-2024,1,8,Inactive,Chicago,Morning
+Emma Pratt,19,Other,IT,9946,08-04-2016,,17,Inactive,Los Angeles,Evening
+Jennifer Nelson,44,Male,HR,7571,22-07-2017,3,7,Inactive,Chicago,Night
+William Garrett,25,Male,Sales,8957,15-10-2022,,18,Inactive,New York,Evening
+Jose Allen,27,Female,HR,9861,05-04-2015,3,10,Active,Chicago,Morning
+Anne Hernandez,24,Male,HR,5998,22-02-2017,,1,Inactive,New York,Night
+Christopher Stevens,57,Other,Sales,2495,30-01-2024,,9,Active,New York,Night
+Alex Gordon,35,Male,Sales,5070,10-08-2022,,7,Inactive,Chicago,Night
+Justin Thornton,35,Female,IT,6622,09-01-2020,,19,Active,Chicago,Night
+Jeremy Perez,21,Male,IT,6980,14-03-2018,,1,Active,Los Angeles,Morning
+Janet Carpenter,65,Other,Sales,7570,04-08-2024,5,5,Inactive,Los Angeles,Morning
+Kimberly Brown,47,Other,HR,4781,11-12-2021,2,18,Inactive,Chicago,Night
+Luis Shaw,29,Female,IT,4297,02-12-2023,4,10,Active,Chicago,Evening
+Amanda Smith,65,Male,IT,5765,16-12-2016,3,9,Inactive,Los Angeles,Morning
+Stephanie Jackson,44,Other,IT,6741,19-06-2015,,10,Active,Los Angeles,Evening
+Matthew Thomas,65,Other,IT,5473,22-10-2020,,13,Active,New York,Evening
+Faith Morris,18,Other,IT,4923,09-05-2021,1,8,Inactive,Chicago,Morning
+David Potter,56,Male,IT,2016,13-07-2020,,18,Active,New York,Morning
+Kimberly Lang,65,Female,Sales,3820,03-02-2024,4,2,Active,Chicago,Night
+Alicia Malone,56,Female,Sales,2646,12-01-2018,,12,Inactive,Los Angeles,Evening
+Gregory Sparks,20,Female,IT,3225,20-08-2023,1,1,Inactive,Los Angeles,Morning
+Mary Arias,19,Male,Sales,8893,14-11-2024,,7,Active,Chicago,Evening
+Jeffrey Robles,28,Male,Sales,8039,04-07-2024,,8,Active,Chicago,Evening
+Jay Scott,28,Other,HR,5496,21-01-2015,,18,Active,Chicago,Night
+Brandon Flores,41,Female,Sales,4368,10-11-2023,4,11,Inactive,Los Angeles,Morning
+Donna King,28,Male,IT,6725,02-08-2016,5,16,Active,Chicago,Night
+Curtis Barrett,29,Female,Sales,5215,08-09-2021,,6,Inactive,Chicago,Evening
+Jason Hayden,43,Female,IT,3929,26-02-2017,1,17,Active,Chicago,Evening
+Patricia Washington,27,Male,IT,6050,05-11-2017,5,15,Active,Chicago,Night
+Chelsea Owens,64,Male,IT,8514,21-05-2021,2,8,Active,New York,Morning
+Kayla Garcia,44,Female,Sales,6034,27-05-2020,,9,Inactive,New York,Night
+Lisa Torres,36,Male,HR,5608,21-06-2020,1,9,Inactive,New York,Evening
+Madison Smith,26,Male,IT,5993,30-08-2024,2,17,Inactive,New York,Morning
+Molly Choi,55,Other,Sales,5001,07-11-2016,4,7,Active,Chicago,Evening
+Kristy Phillips,22,Other,Sales,5217,17-05-2019,9,12,Active,Chicago,Evening
+Dr. Jacob Castaneda DVM,53,Other,Sales,9181,17-02-2024,5,1,Inactive,Los Angeles,Morning
+Dr. Thomas Brown,42,Other,HR,2106,10-02-2017,2,9,Active,Chicago,Night
+Michael Torres,23,Female,HR,6730,12-05-2024,,18,Inactive,New York,Night
+Scott Fleming,51,Female,HR,2700,04-12-2018,,12,Inactive,Chicago,Morning
+Patrick Martin,50,Other,Sales,8594,30-10-2021,5,9,Inactive,Chicago,Night
+Brittany Martinez,30,Other,Sales,3558,16-10-2020,,18,Inactive,New York,Night
+Lori Thomas,52,Male,IT,7471,14-03-2023,,9,Inactive,New York,Evening
+Paul Mccullough,62,Other,IT,6359,12-01-2021,2,15,Active,Los Angeles,Evening
+Bruce Rodriguez,62,Male,IT,9773,23-09-2019,,19,Inactive,Los Angeles,Night
+Kristi Stevens,22,Male,HR,6558,30-10-2021,1,14,Active,Chicago,Night
+Christina Hayes,32,Male,Sales,7401,28-07-2020,6,8,Active,Los Angeles,Evening
+Dawn Choi,28,Female,IT,8308,21-10-2018,5,18,Active,Los Angeles,Night
+Zachary Bowen,25,Male,Sales,2712,28-05-2016,9,10,Active,Chicago,Morning
+Crystal Lee,64,Male,HR,3934,09-07-2022,5,20,Inactive,Los Angeles,Night
+Dr. Justin Vega,50,Female,HR,3135,20-03-2020,,17,Inactive,Los Angeles,Night
+Bradley Riley,62,Other,IT,3980,09-01-2024,7,9,Active,New York,Morning
+George Mcpherson,35,Male,HR,8602,30-10-2018,2,17,Inactive,New York,Morning
+Erica Garcia,32,Female,IT,3726,11-10-2021,6,4,Active,Chicago,Night
+Christopher Black,62,Female,HR,3278,29-08-2021,5,10,Inactive,Los Angeles,Evening
+Charles Smith,24,Female,IT,5716,13-12-2019,5,15,Active,Chicago,Night
+Ellen Wright,56,Male,HR,7339,06-01-2023,,1,Active,New York,Evening
+Ryan Hess,41,Male,HR,3067,06-12-2023,2,19,Active,Los Angeles,Evening
+Miss Alyssa Perez DDS,59,Other,HR,8297,13-10-2015,4,1,Inactive,Los Angeles,Morning
+Taylor Williamson,48,Male,HR,9293,10-03-2015,,17,Inactive,Chicago,Night
+Megan Sullivan,42,Female,IT,4243,24-05-2023,3,2,Active,Los Angeles,Evening
+Christina Lowe,35,Female,Sales,9630,03-07-2018,4,1,Active,Los Angeles,Night
+Anthony Sanchez DVM,37,Other,IT,9844,28-11-2020,7,4,Active,Los Angeles,Morning
+Kyle Strong,46,Female,HR,6688,06-05-2019,,16,Active,New York,Night
+Omar Thomas,60,Male,Sales,2949,12-11-2015,2,18,Inactive,Chicago,Morning
+Angela Jimenez,44,Other,HR,2246,02-05-2016,2,6,Inactive,New York,Evening
+Rebecca Stone,18,Female,HR,2302,08-01-2024,7,6,Active,New York,Night
+Kyle Smith,37,Male,IT,8961,04-09-2020,1,1,Inactive,Chicago,Evening
+Gwendolyn Ray,36,Female,Sales,3619,08-06-2021,3,7,Inactive,New York,Evening
+Stephen Wilcox,19,Other,HR,8100,06-02-2019,1,4,Active,Chicago,Night
+Ashley Barber,55,Male,IT,3072,26-08-2022,,16,Inactive,New York,Night
+Brittany Holt,55,Male,IT,2247,18-02-2018,4,19,Inactive,New York,Morning
+Amber Rodriguez,18,Male,Sales,4941,11-12-2022,5,19,Active,Los Angeles,Morning
+Anne Roberts,44,Male,Sales,6936,20-11-2016,2,2,Active,Chicago,Evening
+Katie Vega,40,Female,HR,7002,06-08-2019,2,20,Active,Los Angeles,Night
+Gabriel Weber,32,Male,HR,2759,10-05-2016,5,7,Inactive,Los Angeles,Evening
+Jeffrey Williamson,54,Other,IT,9988,08-12-2015,,16,Inactive,Chicago,Evening
+Jason Juarez,61,Other,Sales,2646,25-03-2019,,17,Inactive,Los Angeles,Morning
+Toni Hall,53,Other,HR,3093,23-10-2016,3,7,Active,New York,Night
+Ryan Ramos,28,Female,Sales,4004,22-10-2016,,10,Active,Chicago,Morning
+Thomas Stuart,30,Male,HR,4615,07-01-2022,,11,Inactive,Los Angeles,Evening
+Joseph Adams,31,Female,Sales,3299,28-02-2018,,10,Inactive,New York,Night
+Kimberly Burke,20,Male,IT,2492,25-09-2016,,3,Inactive,Los Angeles,Morning
+Brandon Church,38,Male,HR,8388,02-08-2021,1,20,Inactive,Chicago,Morning
+Jonathan Reed,39,Female,IT,9823,02-04-2019,,1,Active,Chicago,Night
+Julie Turner,53,Female,HR,6092,01-09-2021,,16,Active,New York,Evening
+Joseph Vargas,46,Female,Sales,5594,05-09-2016,,3,Active,Chicago,Evening
+Michael Parker,37,Other,HR,6468,17-11-2018,,13,Inactive,Los Angeles,Evening
+Erin Cunningham,63,Other,HR,9838,10-06-2015,5,20,Active,Los Angeles,Morning
+Elizabeth Watson,47,Female,HR,2766,11-10-2018,,20,Inactive,Los Angeles,Night
+Tara Mccoy,31,Male,IT,8103,23-05-2020,5,4,Active,Chicago,Night
+Louis Larsen,24,Male,Sales,8608,30-10-2018,,20,Inactive,Los Angeles,Night
+Tara Waller,50,Other,IT,3902,21-10-2020,,5,Inactive,Los Angeles,Evening
+Morgan Thompson,32,Other,HR,7206,11-01-2018,,9,Inactive,New York,Night
+Jason Greene,26,Male,Sales,5184,09-12-2018,,11,Active,Chicago,Evening
+Patricia Terry,50,Male,Sales,3609,30-01-2020,,3,Inactive,Los Angeles,Evening
+Melissa Erickson,48,Other,IT,2152,04-07-2020,,11,Active,Los Angeles,Morning
+Amanda Griffith,26,Male,Sales,9704,30-05-2019,,9,Active,New York,Evening
+Leslie Walker,20,Other,IT,2061,05-09-2024,3,14,Inactive,Chicago,Morning
+Johnny Dalton,28,Other,HR,2673,05-10-2023,,17,Inactive,New York,Night
+Crystal Kidd,29,Female,HR,8220,20-11-2019,5,11,Active,Los Angeles,Morning
+Kristina Phillips,24,Male,IT,7887,22-01-2018,,14,Active,Chicago,Night
+Michaela Rivera,28,Male,HR,9163,05-10-2018,2,12,Active,Los Angeles,Morning
+Tammy Mcpherson,63,Female,Sales,2640,24-10-2020,,3,Active,New York,Morning
+Carrie Thomas,39,Female,Sales,2831,22-03-2022,4,8,Active,Los Angeles,Evening
+Kimberly Davis,52,Female,HR,7404,06-01-2024,4,15,Inactive,New York,Morning
+Pamela Levine,37,Female,HR,8201,13-11-2017,2,16,Inactive,Chicago,Morning
+Beverly Logan,51,Female,HR,9646,08-08-2021,,18,Inactive,Chicago,Evening
+Pamela Ellison,23,Female,HR,7551,18-10-2018,,13,Inactive,New York,Night
+Kathleen Ross,50,Male,IT,8941,12-09-2018,2,11,Active,New York,Morning
+Erica Jones,46,Female,Sales,3768,19-10-2022,1,4,Inactive,Chicago,Night
+Adam Thomas,32,Female,HR,9370,08-05-2021,4,20,Inactive,New York,Night
+Courtney Lucas,20,Other,Sales,7155,17-11-2015,,1,Inactive,Los Angeles,Night
+Kimberly Montgomery,55,Female,Sales,6345,06-03-2019,,2,Active,Los Angeles,Evening
+Paul Smith,35,Other,IT,2042,22-12-2016,,4,Active,New York,Evening
+Tamara Harding,18,Other,HR,2392,08-03-2017,,20,Active,Los Angeles,Evening
+Suzanne Miller,41,Other,Sales,4208,26-02-2023,4,5,Inactive,Chicago,Evening
+Laura Harvey,22,Male,IT,3141,06-02-2024,,19,Inactive,New York,Night
+Patrick Rodriguez,38,Male,IT,3532,18-11-2018,,1,Active,New York,Morning
+Sabrina Davis,27,Other,HR,3247,22-09-2021,4,11,Active,Chicago,Morning
+Eric Smith,34,Male,HR,5168,15-12-2023,1,14,Inactive,New York,Evening
+Chad Kennedy,49,Male,Sales,7111,15-03-2022,5,18,Active,Chicago,Night
+Denise Lindsey,28,Other,IT,4002,25-03-2015,2,12,Active,New York,Evening
+Dawn Fuller MD,18,Other,HR,8824,03-11-2015,5,11,Inactive,New York,Morning
+Mark Santiago,32,Male,HR,3736,26-09-2018,3,17,Active,New York,Evening
+Jennifer Stewart,32,Female,HR,9772,05-05-2021,1,8,Inactive,Los Angeles,Night
+Sara Harris,35,Other,IT,3433,07-03-2024,,11,Active,New York,Evening
+Nicholas Anderson,60,Male,Sales,3154,13-02-2016,,12,Inactive,New York,Night
+Robin Williams,19,Other,HR,6531,01-11-2018,2,10,Inactive,Los Angeles,Morning
+Angela Bell,62,Female,Sales,2844,11-04-2015,5,10,Active,New York,Evening
+Alexander Mitchell,24,Other,HR,2401,21-01-2020,2,19,Inactive,New York,Night
+Leslie Harmon,47,Male,IT,5440,19-09-2016,,11,Inactive,New York,Evening
+Krystal Rice,42,Other,HR,9390,05-08-2021,5,13,Inactive,New York,Morning
+Mr. Gary Ramos,64,Other,Sales,7293,05-12-2022,2,4,Inactive,Los Angeles,Night
+Meghan Beck,18,Female,HR,7088,05-11-2020,,7,Active,Los Angeles,Night
+Nancy Vincent,38,Other,HR,7948,06-09-2020,,18,Inactive,Los Angeles,Morning
+Jonathan Rangel,49,Other,Sales,9323,19-01-2021,,18,Inactive,Chicago,Evening
+Laura Smith,47,Female,Sales,7876,30-04-2019,2,1,Active,Los Angeles,Morning
+Amber Mason,28,Other,HR,8165,27-12-2020,,4,Active,Chicago,Evening
+Michelle Smith,35,Other,Sales,9906,18-12-2018,,9,Active,Los Angeles,Evening
+Megan Barry,53,Female,Sales,8742,05-04-2019,,16,Inactive,Los Angeles,Evening
+Kathy Clark,55,Female,IT,4040,23-05-2015,2,19,Inactive,New York,Morning
+Brenda Torres,20,Male,HR,2256,10-04-2020,,9,Active,New York,Evening
+James Rose,58,Female,HR,2593,01-08-2019,,11,Inactive,Chicago,Night
+Stephen Weber,20,Male,HR,7375,15-02-2016,5,2,Active,Chicago,Night
+Jason Hess,30,Female,IT,7847,04-04-2024,3,10,Inactive,New York,Morning
+Connie Collins,52,Male,Sales,6509,07-05-2021,1,1,Active,Chicago,Morning
+Melissa Evans,37,Female,HR,4680,22-11-2020,2,13,Inactive,Los Angeles,Evening
+Thomas Martinez,50,Male,HR,7767,24-03-2021,1,3,Inactive,New York,Morning
+Erin Phillips,65,Female,Sales,8054,04-01-2022,2,9,Active,New York,Night
+Stephanie Lopez,36,Female,IT,5765,31-08-2023,1,17,Inactive,New York,Night
+Christopher Knapp,54,Male,HR,5240,13-07-2016,,12,Inactive,New York,Evening
+Shelly Russo,48,Female,Sales,3845,14-09-2015,4,13,Active,Chicago,Night
+Kimberly Galvan,55,Male,HR,8646,24-03-2018,2,14,Inactive,New York,Night
+Renee Burnett,62,Male,Sales,4160,25-08-2021,3,12,Active,Chicago,Night
+Kerry Simon,50,Male,Sales,6272,19-01-2018,,1,Active,New York,Night
+Alfred Barr,31,Female,Sales,4654,01-05-2020,,7,Inactive,Chicago,Morning
+Kelsey Hines,64,Other,IT,9282,06-10-2016,,20,Active,New York,Evening
+Elizabeth Dudley,64,Other,HR,5152,05-05-2019,,15,Active,New York,Night
+Kimberly Dunlap,53,Male,HR,4213,21-06-2018,,1,Active,Los Angeles,Morning
+David Pena,59,Male,IT,3105,09-07-2017,3,9,Active,Los Angeles,Night
+Sarah Castro,19,Other,IT,6934,20-10-2019,4,8,Inactive,Los Angeles,Evening
+Tiffany Richardson,36,Other,IT,9775,24-11-2018,4,5,Active,Los Angeles,Night
+Terry Burch,63,Male,IT,5417,05-12-2019,2,11,Active,Los Angeles,Evening
+Jason Davis,31,Female,IT,6675,21-10-2017,8,9,Active,New York,Night
+Henry Bennett,51,Other,Sales,5740,29-09-2023,10,17,Active,Los Angeles,Evening
+John Rodriguez,42,Female,IT,4781,20-01-2023,,4,Inactive,Los Angeles,Night
+Joseph Smith,26,Male,Sales,8377,23-06-2022,2,7,Active,Chicago,Morning
+Anthony Miller,64,Other,Sales,8635,09-06-2020,8,20,Inactive,New York,Evening
+Jennifer Clark,64,Male,IT,4232,21-05-2023,2,10,Active,New York,Night
+Douglas Martin,23,Female,HR,7218,17-01-2017,1,19,Inactive,New York,Night
+Brenda Carter,36,Male,IT,9295,04-03-2020,4,7,Inactive,Chicago,Evening
+Terri Foster,20,Male,HR,6165,22-12-2017,10,9,Active,New York,Morning
+Brenda Lang,23,Male,HR,3790,01-08-2024,2,13,Active,New York,Morning
+Patricia Scott,52,Other,Sales,9364,05-11-2019,6,5,Active,New York,Evening
+Melissa Vega,21,Female,Sales,5970,09-11-2016,5,6,Active,Los Angeles,Evening
+Taylor Thompson,23,Other,HR,7974,26-07-2018,,14,Inactive,New York,Morning
+Tina Welch,21,Other,HR,7343,01-02-2019,,7,Inactive,Los Angeles,Morning
+Heather Arias,21,Female,Sales,3913,23-11-2017,7,9,Active,New York,Evening
+Ralph Newman,65,Other,IT,4565,10-04-2022,3,2,Active,New York,Night
+Stacy Bell,37,Female,Sales,3622,10-02-2017,,15,Active,Los Angeles,Evening
+Tyler Miller,54,Female,IT,5589,18-08-2021,,10,Inactive,Los Angeles,Evening
+Valerie Lee,51,Other,HR,2218,10-02-2023,,5,Inactive,Chicago,Evening
+Jimmy Wade,19,Male,Sales,2277,21-10-2019,3,4,Active,Los Angeles,Night
+Carlos Mcmillan,24,Other,IT,8973,18-03-2016,,4,Inactive,Los Angeles,Morning
+Laurie Mata,51,Other,HR,3779,27-11-2021,9,20,Inactive,Chicago,Night
+Brianna Phelps,37,Male,Sales,6354,03-12-2021,8,9,Active,Los Angeles,Night
+Heather Henry,45,Female,IT,7756,05-07-2018,3,5,Inactive,Los Angeles,Night
+Rebecca Avery,40,Female,HR,6918,03-02-2019,5,1,Active,Los Angeles,Night
+Anthony Blankenship,33,Other,IT,9323,16-10-2017,8,10,Active,Chicago,Morning
+Alice Martin,37,Male,HR,2899,10-02-2021,2,4,Inactive,Chicago,Night
+Phillip Nelson,28,Other,Sales,8643,23-04-2019,1,11,Active,Chicago,Morning
+Emily Martin,58,Male,Sales,4038,06-09-2020,3,13,Active,Los Angeles,Evening
+Monica Blake,19,Other,Sales,8687,19-11-2016,9,9,Active,New York,Morning
+Rebecca Carter,36,Female,IT,6907,28-04-2015,,6,Inactive,Chicago,Morning
+Jason Warren,57,Female,HR,2850,24-10-2019,2,1,Active,Los Angeles,Evening
+Julian Maxwell,47,Female,IT,3343,26-01-2022,1,1,Inactive,Los Angeles,Night
+Mrs. Kimberly Day MD,61,Male,HR,5508,06-04-2016,5,5,Active,Los Angeles,Night
+Rachel Roman,19,Male,Sales,3896,21-09-2023,3,12,Inactive,Los Angeles,Night
+Elizabeth Johnston,59,Other,HR,5042,18-04-2018,2,13,Inactive,Chicago,Night
+Sabrina Norris,55,Female,Sales,8505,23-12-2022,8,9,Inactive,New York,Morning
+Brandi Harvey,40,Other,HR,4393,21-12-2020,8,7,Active,Chicago,Night
+Hayden Parsons,28,Other,Sales,3453,01-05-2017,,13,Inactive,Chicago,Night
+Gregory Marshall,20,Male,HR,3500,11-08-2020,10,20,Active,New York,Morning
+Eric Bailey,65,Female,HR,5816,24-06-2021,8,9,Active,Chicago,Evening
+Dawn Coleman,48,Female,HR,8150,30-03-2017,,3,Active,New York,Night
+Alex Jones,47,Male,Sales,7270,11-12-2022,1,3,Inactive,Chicago,Night
+Bobby Tanner,28,Other,HR,6861,10-02-2023,1,12,Inactive,Chicago,Night
+Jeffrey Stephens,51,Other,IT,6903,10-06-2020,7,9,Active,Chicago,Night
+Brenda Mendoza,43,Female,Sales,9053,20-02-2024,9,9,Active,New York,Evening
+John Adkins,43,Other,Sales,6853,28-08-2017,2,10,Inactive,New York,Night
+James Diaz,23,Female,IT,4156,05-11-2015,3,17,Inactive,New York,Evening
+Leslie Velez,29,Male,IT,8335,02-01-2020,4,17,Inactive,Chicago,Morning
+Michael Lee,23,Male,Sales,8898,09-04-2020,10,15,Active,New York,Night
+Lindsey Davis,31,Female,Sales,6174,05-07-2015,,3,Inactive,New York,Evening
+Sara Brewer,62,Other,HR,7445,04-05-2017,2,19,Inactive,Chicago,Morning
+Seth Brown,28,Other,IT,3478,03-05-2020,3,16,Inactive,Los Angeles,Night
+Stanley White,35,Female,IT,4196,05-11-2022,5,6,Inactive,New York,Morning
+Mrs. Theresa Wilson,20,Female,Sales,2372,13-10-2018,4,8,Active,Chicago,Morning
+John Freeman,60,Male,HR,3436,22-10-2021,1,10,Active,Los Angeles,Night
+Charles Nichols,59,Other,Sales,8057,27-08-2020,,6,Active,New York,Evening
+Cory Roth,40,Other,IT,5765,16-09-2016,,18,Inactive,New York,Evening
+Michelle Durham,35,Male,HR,5900,25-04-2015,,12,Active,Chicago,Evening
+Manuel Lewis,42,Female,IT,8696,09-12-2023,,11,Inactive,New York,Morning
+Jeremy Garcia,58,Female,HR,2477,08-10-2024,,4,Active,New York,Morning
+Christy Jordan,19,Female,IT,6725,25-10-2022,3,6,Active,Chicago,Morning
+Colleen Jones,29,Other,Sales,7514,26-07-2022,1,8,Inactive,New York,Night
+Zachary Brown,21,Other,Sales,4750,10-03-2020,2,8,Inactive,New York,Morning
+Jill Stanton,48,Male,HR,5309,29-03-2023,6,5,Active,New York,Morning
+Kristen Jackson,50,Female,IT,9782,20-04-2015,,9,Inactive,Chicago,Night
+Jillian Ramos,27,Other,HR,6589,16-10-2016,,3,Inactive,New York,Evening
+Angel Henry,20,Male,Sales,4483,29-07-2016,9,19,Active,New York,Night
+Brandon Martin,20,Female,IT,9044,08-10-2021,,7,Active,Los Angeles,Morning
+Natalie Byrd,29,Male,HR,3504,05-07-2016,8,10,Active,Chicago,Evening
+Samuel Rivera,35,Female,HR,5531,13-01-2017,,7,Active,Chicago,Morning
+Dr. Danny Mccann,60,Other,IT,4255,12-09-2021,9,17,Active,New York,Evening
+Jim Scott,47,Male,Sales,2145,23-08-2021,8,10,Active,Chicago,Night
+Molly Harris,63,Male,IT,7897,20-08-2024,10,20,Active,New York,Evening
+Edward Smith,61,Other,IT,3742,17-08-2017,7,16,Active,New York,Evening
+Jessica Lopez,50,Female,HR,4721,08-11-2024,5,16,Active,Los Angeles,Evening
+Cynthia Melton,62,Other,HR,2873,18-09-2019,3,1,Inactive,Chicago,Morning
+John Smith,61,Female,IT,3398,15-10-2019,,4,Inactive,Chicago,Night
+Carl Armstrong,22,Male,IT,4927,13-05-2016,5,20,Active,Los Angeles,Evening
+Ashley Garcia,48,Other,Sales,2106,28-02-2020,2,3,Active,Chicago,Night
+David Pierce,39,Female,IT,7614,22-03-2021,,10,Active,New York,Evening
+Jerry Thompson,44,Female,IT,8634,28-02-2021,,3,Inactive,New York,Evening
+Lisa Ramirez,43,Female,IT,4925,25-05-2016,5,3,Active,New York,Evening
+Rhonda Salinas,53,Male,HR,5273,27-07-2021,1,4,Inactive,New York,Night
+Cheryl Chambers,42,Other,IT,9621,18-11-2018,6,16,Active,Los Angeles,Night
+Mr. Micheal Henry,39,Male,IT,7371,02-02-2017,1,4,Inactive,Chicago,Night
+Raymond Nelson,28,Female,Sales,7873,10-09-2022,3,2,Active,Chicago,Night
+Angela Roberts,42,Male,IT,9871,09-07-2018,,5,Inactive,Los Angeles,Morning
+Megan Lamb,51,Female,Sales,4164,11-09-2020,3,8,Inactive,New York,Morning
+Brian Owens,23,Male,HR,5648,05-07-2020,9,19,Active,New York,Morning
+Jacob Woods,54,Female,IT,9592,03-06-2020,,1,Active,New York,Night
+Ellen Barker,57,Female,IT,2096,02-10-2016,5,1,Inactive,New York,Night
+Dana Garcia,40,Female,IT,4386,22-04-2024,1,19,Inactive,Chicago,Night
+Howard Key,47,Male,HR,7123,04-04-2019,9,11,Active,New York,Night
+Melissa Wallace,41,Female,IT,3591,22-09-2015,2,18,Inactive,Los Angeles,Morning
+Monique Davis,22,Female,IT,5449,10-03-2016,3,2,Inactive,Los Angeles,Evening
+Mary Martinez,26,Other,Sales,4664,15-12-2023,5,16,Inactive,Chicago,Evening
+Jeff Johnson,20,Other,IT,7345,11-12-2014,3,11,Inactive,New York,Morning
+Douglas Ramirez,45,Male,Sales,7615,27-04-2021,4,7,Inactive,Chicago,Evening
+Amy Miller,27,Other,HR,6899,04-09-2017,5,3,Inactive,New York,Morning
+Patrick Evans,60,Other,IT,5107,27-11-2017,5,4,Active,Chicago,Night
+Shannon Jackson,49,Female,IT,5126,24-07-2015,4,13,Inactive,Los Angeles,Morning
+Kelly Rios,60,Other,IT,2131,17-06-2015,4,19,Active,New York,Evening
+Jill Buchanan,57,Male,HR,6974,13-08-2024,4,6,Active,Los Angeles,Evening
+Keith Johnson,49,Male,IT,7298,21-09-2020,5,18,Inactive,Los Angeles,Evening
+Gregory Smith,36,Female,IT,4936,13-04-2022,9,12,Active,Chicago,Evening
+Joseph Klein,64,Other,Sales,2962,16-04-2019,5,17,Inactive,Los Angeles,Night
+David Gregory,36,Male,Sales,2321,11-12-2023,0,1,Active,Chicago,Evening
+Tammy Dixon,60,Male,HR,5312,29-09-2021,6,8,Active,Los Angeles,Night
+Linda Hawkins,60,Other,HR,4524,05-06-2015,3,3,Inactive,New York,Morning
+Deborah Sanchez,65,Female,IT,9136,05-07-2020,4,3,Inactive,Chicago,Morning
+Melissa Carey,40,Female,IT,6352,03-06-2020,2,4,Active,Los Angeles,Morning
+Corey Johnson,36,Male,HR,7378,26-10-2016,3,2,Active,Chicago,Morning
+Jay Evans,21,Male,HR,8147,29-03-2022,5,2,Inactive,Chicago,Morning
+Kevin Green,44,Male,HR,5551,13-09-2021,3,17,Active,Chicago,Night
+Rebecca Padilla,44,Female,Sales,2683,30-09-2018,3,3,Active,Los Angeles,Morning
+Dave Romero,25,Male,IT,9392,20-04-2024,6,17,Inactive,New York,Morning
+David Mills,24,Female,HR,2727,07-12-2020,4,1,Inactive,Chicago,Night
+William Alexander,25,Female,Sales,2797,26-03-2021,2,17,Inactive,New York,Night
+Mr. John Hill II,36,Female,Sales,2709,07-09-2021,,9,Inactive,Los Angeles,Night
+John Foster,44,Other,IT,3062,28-01-2021,1,3,Active,New York,Night
+Christy Berry,41,Female,Sales,8189,12-10-2016,6,3,Active,Chicago,Morning
+Jason Ortiz,25,Female,IT,3647,18-10-2020,2,19,Inactive,New York,Evening
+Timothy Guzman,41,Female,Sales,9409,17-09-2023,,16,Inactive,New York,Morning
+Manuel Ramirez,34,Female,Sales,2786,27-07-2017,4,6,Active,Los Angeles,Evening
+Erik Rodriguez,51,Other,HR,2892,06-10-2016,7,8,Active,Los Angeles,Night
+Jo Richards,51,Male,Sales,8009,14-12-2020,,15,Inactive,Chicago,Night
+Veronica Bennett,51,Other,IT,5497,26-12-2021,5,13,Inactive,Los Angeles,Morning
+Zoe Camacho,58,Male,Sales,2451,22-11-2020,4,2,Active,New York,Night
+Jennifer Cruz,54,Other,HR,9098,05-09-2022,4,4,Inactive,Chicago,Morning
+William Garza,36,Male,IT,2162,22-05-2019,4,7,Active,New York,Morning
+Matthew Anderson,45,Male,IT,2532,25-05-2021,3,7,Active,New York,Night
+David Powell IV,40,Other,IT,8831,27-01-2021,5,8,Active,New York,Morning
+Lynn Franco,53,Other,IT,8632,27-12-2020,4,15,Inactive,Chicago,Morning
+Kelly Sutton,28,Female,IT,9146,16-10-2022,5,13,Active,Chicago,Evening
+Sheri Cortez,39,Male,HR,8348,11-06-2023,8,19,Active,Chicago,Morning
+Stanley Baker,28,Other,Sales,5009,14-08-2017,2,1,Active,Chicago,Evening
+James James,38,Male,Sales,9666,14-04-2016,9,15,Active,Los Angeles,Morning
+Mr. Harry Allen,34,Other,Sales,3395,31-05-2015,3,4,Active,Los Angeles,Morning
+Matthew Roberts,53,Male,Sales,9917,07-07-2017,8,16,Active,Los Angeles,Evening
+Gary Lee,32,Other,IT,9626,25-04-2020,6,16,Active,Los Angeles,Night
+Taylor Dean,34,Female,Sales,4424,22-08-2021,5,19,Inactive,New York,Night
+Madeline Contreras,19,Other,HR,9825,16-11-2018,4,5,Inactive,Los Angeles,Morning
+Terri Ross,51,Female,IT,9654,15-04-2022,1,11,Active,Los Angeles,Night
+Darrell Wall,30,Male,IT,6212,05-05-2021,4,15,Inactive,Chicago,Night
+Roberta Haas,48,Male,HR,3927,13-07-2019,5,20,Inactive,Chicago,Evening
+Steve Smith,42,Female,Sales,3414,13-02-2023,2,20,Inactive,Chicago,Evening
+William Davis,62,Other,IT,4483,01-06-2021,,8,Active,Los Angeles,Morning
+Paige Hayes,27,Female,Sales,6086,05-06-2016,2,1,Active,Chicago,Night
+Julie Baird,26,Other,HR,6745,10-10-2024,,16,Active,Los Angeles,Evening
+Isaac Shannon,19,Other,HR,6166,12-10-2020,,10,Active,New York,Night
+Daniel Lee,64,Female,Sales,7841,29-08-2017,3,14,Active,Chicago,Night
+Willie Miller,39,Female,Sales,4949,27-08-2022,5,7,Inactive,New York,Evening
+Bryan Brown,45,Other,IT,8462,12-03-2019,3,2,Active,Los Angeles,Evening
+Penny Jennings,30,Other,IT,9314,08-11-2016,,4,Active,Los Angeles,Morning
+Christopher Swanson,62,Female,Sales,5349,12-12-2020,2,8,Inactive,Los Angeles,Evening
+Emily Price,53,Male,HR,7659,02-09-2020,3,16,Active,Los Angeles,Evening
+Rebecca Gonzalez,61,Male,Sales,7765,22-03-2018,2,16,Inactive,Los Angeles,Night
+Danielle Garza,58,Other,IT,3703,11-04-2016,2,6,Inactive,Chicago,Night
+David Nelson,39,Other,Sales,9653,08-08-2021,,19,Inactive,New York,Morning
+Brian Phillips,37,Other,HR,2511,02-07-2022,,5,Inactive,Chicago,Morning
+Anita Jones,44,Male,IT,6141,15-05-2017,3,1,Active,Los Angeles,Evening
+Sheila Moore,18,Male,HR,2973,29-05-2019,,4,Active,Chicago,Morning
+Alex Thompson,54,Female,HR,6145,03-02-2019,3,7,Inactive,New York,Evening
+Danielle Gomez,46,Male,IT,5031,16-06-2018,,7,Active,New York,Morning
+Alyssa Harris,49,Male,HR,4679,27-11-2022,,15,Active,Chicago,Morning
+Steve Morton,20,Other,Sales,3265,16-12-2022,5,7,Active,Los Angeles,Evening
+John Smith,19,Female,HR,4666,01-06-2016,,16,Inactive,Chicago,Evening
+David Williams,33,Female,Sales,2078,22-09-2021,3,15,Inactive,New York,Night
+Lauren Williams,27,Other,Sales,3153,04-12-2020,2,5,Active,New York,Morning
+Carrie Butler,65,Male,Sales,3369,09-03-2016,,12,Inactive,Chicago,Evening
+Matthew Hernandez,59,Other,IT,9265,17-04-2021,1,3,Active,Los Angeles,Evening
+Lauren Richardson,35,Other,Sales,3717,16-07-2016,4,4,Inactive,Chicago,Evening
+Olivia Butler,28,Female,IT,9518,05-10-2024,,9,Active,Los Angeles,Night
+Carrie Clark,30,Female,HR,2912,21-12-2018,,11,Active,New York,Morning
+Elizabeth Wolf,63,Female,Sales,5419,17-08-2016,,7,Inactive,New York,Night
+Joanne Griffin,37,Male,IT,5423,27-09-2015,,18,Inactive,Chicago,Morning
+Jacob Shannon,35,Other,Sales,9926,04-09-2016,,7,Active,Chicago,Night
+Melanie Casey,44,Other,HR,4713,09-10-2017,5,2,Active,New York,Morning
+Lori Gray,49,Female,IT,5690,09-02-2016,,20,Active,New York,Morning
+Ann Mcdonald,52,Female,HR,7496,27-05-2019,3,6,Active,Los Angeles,Night
+Jesse Wilson,22,Female,HR,8220,24-02-2023,,12,Inactive,New York,Evening
+Cynthia Vasquez,52,Male,Sales,4721,08-01-2024,3,7,Active,Chicago,Night
+Lawrence Smith,27,Male,HR,6247,20-03-2024,2,9,Active,Los Angeles,Morning
+Jacob Aguilar,23,Male,IT,2372,01-06-2020,,1,Inactive,Chicago,Morning
+Gerald Sharp,53,Other,HR,8136,25-02-2016,,6,Inactive,Chicago,Morning
+Terri Richards,35,Female,Sales,5940,17-12-2023,,5,Inactive,Chicago,Evening
+Elizabeth Vega,61,Female,HR,8381,17-12-2021,1,8,Inactive,New York,Night
+Jeremy Cooper,58,Female,HR,3241,16-09-2023,2,6,Active,Chicago,Evening
+Matthew Bonilla,44,Male,IT,9092,11-06-2018,2,20,Active,Chicago,Morning
+Eric Montgomery,60,Female,HR,3710,12-07-2023,,19,Active,Los Angeles,Evening
+Susan Gonzalez,62,Male,IT,7862,20-10-2018,,3,Inactive,New York,Evening
+Jesse Miller,52,Male,HR,9993,27-11-2020,,12,Active,Chicago,Evening
+Mr. Dustin Cross,65,Female,HR,4716,23-02-2017,5,17,Active,Los Angeles,Evening
+Dr. Pamela Key,27,Female,Sales,7359,06-09-2018,,7,Active,New York,Night
+Jennifer Ward,31,Female,IT,3565,30-11-2021,5,4,Active,New York,Night
+Philip Henderson,31,Other,HR,6825,04-06-2023,2,12,Active,New York,Morning
+Rachael Benson,64,Female,HR,5547,28-03-2023,,7,Inactive,New York,Night
+Donald Warner,18,Female,HR,5520,09-10-2015,3,12,Inactive,Chicago,Night
+Wayne Schneider,43,Other,Sales,5163,30-11-2022,,7,Inactive,Chicago,Morning
+Amber Ward,54,Female,Sales,7880,19-09-2024,5,6,Active,New York,Night
+Karen Washington,31,Male,Sales,8949,21-10-2018,,5,Inactive,New York,Morning
+Shawn Wells,26,Other,HR,6872,30-08-2017,9,15,Active,Chicago,Night
+Michelle Jackson,52,Female,IT,5262,16-09-2017,,9,Inactive,Chicago,Morning
+Jesse Mendoza,52,Other,IT,7966,01-11-2022,1,13,Inactive,New York,Night
+Tracy Powers,65,Female,IT,3535,08-05-2020,7,19,Active,New York,Morning
+Sarah Sanders,54,Other,IT,9279,24-03-2021,,18,Inactive,New York,Morning
+Maria Franklin,60,Male,IT,4635,16-10-2023,5,9,Inactive,New York,Night
+Melanie Andersen,20,Other,IT,3716,07-01-2023,3,11,Inactive,Chicago,Night
+Michael Snyder,55,Other,Sales,7497,03-02-2024,1,20,Inactive,New York,Morning
+Kimberly Morris,50,Female,Sales,7236,17-02-2024,,12,Inactive,New York,Morning
+Daniel Williamson,25,Male,IT,3612,19-10-2021,,15,Inactive,New York,Evening
+Jared Webb,18,Male,IT,7530,22-06-2016,2,1,Inactive,New York,Morning
+Susan Davis,54,Female,Sales,4232,03-07-2015,5,3,Active,Chicago,Morning
+Michelle Wolfe,63,Male,Sales,6576,08-01-2016,9,11,Active,Los Angeles,Evening
+Keith Smith,53,Other,HR,4215,19-11-2022,1,9,Active,Los Angeles,Morning
+Jonathan Rivera,47,Female,HR,4906,08-06-2019,2,8,Inactive,Chicago,Night
+Bryan Walsh,42,Female,IT,7551,11-04-2018,5,10,Inactive,Chicago,Night
+William Best,36,Other,HR,7188,06-04-2023,,18,Inactive,Chicago,Evening
+Anne Estes,59,Female,Sales,2801,07-04-2015,2,9,Inactive,Los Angeles,Evening
+Jeffrey Morton,22,Female,HR,7904,30-01-2024,2,10,Inactive,Chicago,Night
+Jacqueline Evans,60,Other,HR,8240,27-11-2017,4,13,Inactive,New York,Night
+Tammy Smith,30,Female,Sales,2087,09-01-2015,5,6,Inactive,Los Angeles,Morning
+Sara King,36,Female,Sales,8775,31-05-2021,,3,Inactive,Los Angeles,Evening
+Robert Goodman,21,Other,IT,9051,26-03-2021,5,20,Inactive,New York,Evening
+Gerald Cooke,33,Other,Sales,9693,29-08-2017,,17,Inactive,New York,Morning
+Natasha Harris,36,Male,HR,4316,16-02-2021,9,17,Active,Chicago,Evening
+Darryl Nolan,35,Male,HR,7435,20-12-2018,,19,Inactive,Chicago,Morning
+Edward Wilkerson,55,Other,Sales,4560,14-01-2023,,20,Inactive,Chicago,Morning
+Frank Gomez,55,Female,Sales,6659,07-06-2021,2,18,Inactive,Chicago,Night
+Dr. Shawn Miranda,26,Male,HR,8255,20-08-2017,,2,Active,New York,Evening
+Geoffrey Roberts,59,Other,IT,5937,15-10-2023,4,11,Inactive,Chicago,Night
+Elizabeth Kramer,61,Other,Sales,7347,23-10-2017,5,8,Active,New York,Night
+Robert Williams,60,Male,IT,6762,22-07-2017,3,2,Inactive,New York,Evening
+Mr. Ryan Beck,61,Male,IT,5369,21-03-2024,1,7,Active,Los Angeles,Night
+Amy Heath,54,Male,Sales,6897,02-01-2021,2,20,Active,Los Angeles,Evening
+Zachary Cox,24,Other,IT,2499,19-08-2018,,8,Active,New York,Night
+Nicholas Guerra,23,Male,HR,7314,04-01-2016,,17,Active,Los Angeles,Morning
+Sarah Fletcher,41,Male,HR,9285,11-04-2023,3,19,Active,New York,Evening
+Katelyn Jacobson,41,Other,Sales,7503,30-08-2018,,6,Active,New York,Morning
+Jenna Marquez,28,Female,IT,8971,21-03-2016,,17,Inactive,New York,Night
+Jennifer Smith,23,Other,HR,7176,13-03-2015,4,6,Active,Los Angeles,Evening
+Daniel Duke,45,Male,HR,4808,13-12-2019,2,10,Active,Los Angeles,Evening
+Dana Payne,28,Male,HR,8191,10-02-2022,,2,Active,New York,Morning
+Miss Jessica Jones,39,Male,HR,2947,04-10-2021,,10,Inactive,Los Angeles,Evening
+Jessica Garcia,47,Male,Sales,8619,23-08-2024,2,13,Active,Los Angeles,Night
+Rachel Jones,19,Female,HR,5015,26-07-2021,5,8,Inactive,Los Angeles,Evening
+Brent Mendoza,22,Male,Sales,5700,15-09-2021,5,16,Active,Chicago,Night
+Daniel Malone,55,Female,Sales,3695,08-06-2016,1,6,Active,Chicago,Night
+Nicholas Rodriguez,50,Other,Sales,4694,25-05-2021,5,10,Inactive,Chicago,Evening
+Jerry Lopez,26,Male,Sales,2387,20-05-2019,,11,Inactive,Chicago,Morning
+Nicole Cook,41,Female,HR,8495,06-09-2022,1,19,Inactive,Los Angeles,Night
+Anthony Ferguson,41,Male,Sales,7556,03-02-2023,,16,Active,New York,Evening
+Kimberly Miller,52,Male,Sales,5282,22-10-2022,4,5,Inactive,Los Angeles,Morning
+Jennifer Clark,25,Female,HR,7713,18-05-2017,,20,Inactive,Chicago,Evening
+Katherine Wong,34,Other,HR,6706,15-10-2018,8,13,Active,Los Angeles,Evening
+John Becker,29,Female,IT,3452,29-11-2022,9,19,Inactive,Chicago,Night
+Nicole Smith,50,Other,HR,8274,06-11-2023,,3,Active,New York,Evening
+Megan Castillo,18,Other,Sales,5086,05-06-2022,,4,Inactive,Chicago,Morning
+Ashley Alvarado,54,Other,IT,2937,03-10-2018,,13,Inactive,Los Angeles,Night
+Sarah Thomas,54,Male,IT,6185,29-10-2016,,1,Active,New York,Evening
+Mckenzie Moore,53,Male,HR,8758,14-07-2023,,5,Active,Chicago,Morning
+Ryan James,41,Male,Sales,7686,16-02-2015,,13,Inactive,Los Angeles,Evening
+Jaclyn Collins,47,Male,IT,2029,05-12-2019,9,17,Active,Los Angeles,Morning
+Jay Atkinson,51,Male,HR,7315,02-10-2024,4,8,Active,Chicago,Evening
+Whitney Chambers,65,Male,Sales,8456,26-03-2016,3,14,Active,New York,Evening
+Dawn Gonzales,21,Male,HR,8766,21-06-2020,2,10,Inactive,Los Angeles,Night
+Christine Hooper,43,Female,IT,8772,13-10-2021,3,6,Active,New York,Morning
+Joel Anthony,52,Female,Sales,7588,26-05-2017,1,9,Inactive,Chicago,Night
+Jodi Graves,32,Other,IT,9511,23-05-2022,4,3,Inactive,Los Angeles,Evening
+Vicki Taylor,48,Female,IT,6114,04-08-2021,1,1,Active,Chicago,Night
+Johnathan Donaldson,37,Female,IT,7496,18-02-2020,5,7,Inactive,Chicago,Evening
+Monica Parker,60,Male,Sales,8117,13-04-2020,1,7,Inactive,New York,Morning
+Chelsea Hill,31,Male,HR,4345,03-05-2024,5,12,Active,Los Angeles,Night
+Lance Davis,34,Other,Sales,7651,27-01-2019,3,2,Inactive,Chicago,Night
+Ruth Randall,19,Male,IT,8059,24-07-2017,4,3,Active,Los Angeles,Night
+Patricia Lee,56,Female,HR,3168,02-04-2016,1,6,Active,New York,Morning
+Tyrone Elliott,36,Male,HR,6289,27-03-2016,1,12,Inactive,Chicago,Evening
+Laura Montgomery,56,Female,Sales,4269,15-06-2020,9,13,Active,Los Angeles,Morning
+Tiffany Jordan,44,Male,Sales,9819,15-07-2022,5,13,Active,New York,Morning
+Richard Pearson,52,Other,IT,7473,24-04-2023,2,10,Active,Chicago,Morning
+John Rogers,29,Male,HR,7568,13-01-2024,5,17,Active,Los Angeles,Evening
+Andrea Bond,50,Other,HR,3312,08-06-2023,,4,Inactive,Los Angeles,Evening
+Christina Henry,39,Female,HR,6644,03-01-2018,5,7,Active,Chicago,Evening
+Leslie Mason,42,Other,Sales,9658,31-10-2019,1,14,Inactive,New York,Evening
+Daniel Stanley,22,Other,HR,7388,07-09-2016,4,13,Inactive,Chicago,Morning
+Bradley Parker,36,Other,Sales,2371,16-03-2023,,5,Active,Los Angeles,Evening
+Christina Carlson,42,Female,Sales,2015,08-05-2020,1,14,Inactive,Chicago,Evening
+Kimberly Burke,59,Female,Sales,5628,08-10-2016,,4,Inactive,Chicago,Evening
+Sara Martinez,34,Other,HR,9951,18-02-2024,,6,Inactive,New York,Night
+Peter Hardy,38,Other,IT,5134,04-12-2022,5,14,Active,Chicago,Night
+Kimberly Moses,49,Female,IT,6502,28-05-2022,3,1,Active,Los Angeles,Evening
+Larry Fritz,29,Female,Sales,4999,25-02-2021,,16,Inactive,Los Angeles,Morning
+Courtney Lopez,59,Female,Sales,4875,18-01-2015,4,6,Active,Los Angeles,Evening
+Megan Woods,56,Other,IT,5322,10-10-2022,5,6,Active,Los Angeles,Evening
+Benjamin Brown,31,Female,HR,3340,19-12-2016,,4,Inactive,Los Angeles,Morning
+Matthew Cole,21,Female,HR,6900,21-09-2016,9,10,Active,Chicago,Morning
+Jose Powell,50,Male,IT,6907,09-01-2024,6,4,Active,Los Angeles,Night
+Erin Walker,45,Female,HR,6585,18-02-2016,,9,Inactive,Los Angeles,Evening
+Tammy Schneider,22,Other,IT,3625,24-10-2016,4,14,Active,Chicago,Morning
+Cheryl Singh,56,Other,HR,9761,14-05-2020,,6,Inactive,Los Angeles,Evening
+Vicki Hicks,29,Male,HR,4077,25-10-2015,1,3,Inactive,Chicago,Evening
+Rachel Spencer,52,Other,IT,5090,26-12-2015,7,9,Active,Los Angeles,Evening
+Joseph Murillo,39,Male,HR,9553,30-05-2018,8,15,Active,Los Angeles,Morning
+Eric Collins,34,Other,Sales,6162,30-04-2018,3,10,Inactive,Chicago,Night
+Richard Martin,38,Male,Sales,6578,13-09-2023,3,1,Active,Chicago,Morning
+John Thompson,48,Male,HR,7192,05-12-2016,,4,Inactive,Chicago,Night
+Laura Stewart,55,Female,HR,6341,31-07-2023,,13,Inactive,New York,Morning
+Jason Reed,23,Male,IT,3405,11-01-2016,,20,Inactive,Chicago,Night
+Christopher Taylor,62,Female,IT,4876,11-12-2019,7,18,Active,Chicago,Night
+Nathaniel Castillo DDS,45,Other,HR,5730,10-01-2016,3,19,Inactive,Los Angeles,Night
+Stephanie Rodriguez,22,Other,HR,3681,23-04-2020,3,16,Active,New York,Night
+Ronald Miller,20,Male,Sales,2850,24-10-2017,2,18,Active,New York,Night
+Kristin Cole,50,Male,Sales,9616,03-02-2017,2,13,Inactive,Los Angeles,Night
+Jeanette Mcbride,37,Male,IT,3364,10-12-2015,2,8,Active,Los Angeles,Evening
+Christopher Krause,30,Male,IT,2735,11-11-2015,9,16,Active,New York,Evening
+Ryan Vazquez,62,Female,Sales,4369,04-12-2024,10,17,Active,Chicago,Morning
+Justin Turner,65,Other,HR,8129,29-02-2016,9,10,Active,New York,Night
+Gary Mitchell,52,Female,Sales,9963,22-09-2016,5,20,Inactive,Los Angeles,Morning
+Andrea Odom,60,Female,Sales,8067,03-12-2023,3,8,Inactive,New York,Evening
+Joshua Murphy,57,Female,HR,8927,22-07-2024,9,17,Active,Chicago,Night
+Raymond Smith,49,Male,IT,7068,22-05-2019,10,11,Active,Chicago,Morning
+Elizabeth Middleton,38,Other,HR,8277,05-09-2020,4,9,Inactive,Los Angeles,Evening
+Logan Peterson,60,Other,IT,2300,17-02-2017,,13,Active,New York,Morning
+Tina Ramos,35,Male,IT,7251,15-12-2020,3,19,Active,Los Angeles,Evening
+Mary Armstrong,29,Female,HR,9402,13-12-2017,4,1,Active,New York,Night
+Joel Tyler,49,Male,Sales,2940,05-05-2020,5,8,Inactive,New York,Night
+Alex Walker,23,Male,IT,6916,11-10-2016,3,10,Inactive,Los Angeles,Morning
+Laura White,60,Other,IT,4595,17-07-2016,4,6,Inactive,New York,Night
+Kevin Bates,62,Other,HR,7389,03-01-2021,3,10,Active,Los Angeles,Evening
+Dustin Carrillo,52,Other,Sales,5770,20-06-2016,1,10,Inactive,Los Angeles,Morning
+Glenn Alexander,44,Male,IT,2389,10-04-2015,4,15,Inactive,Chicago,Evening
+Kevin Pearson,43,Female,IT,5833,28-06-2021,4,15,Active,Chicago,Night
+Carmen Hurley,20,Male,HR,2786,14-10-2024,1,15,Active,Los Angeles,Morning
+Ruth Osborne,53,Male,HR,5616,31-07-2022,4,16,Active,Los Angeles,Night
+Gregory James,42,Other,Sales,4887,28-08-2020,3,13,Inactive,Chicago,Night
+Erin Kelley,49,Other,Sales,3437,19-08-2019,4,18,Inactive,Los Angeles,Night
+Debra Knox,54,Other,Sales,6091,22-01-2018,2,12,Active,New York,Evening
+Stacy Rogers,34,Other,Sales,6501,25-10-2023,8,13,Active,Chicago,Night
+Morgan Coleman,51,Female,HR,6415,20-03-2022,1,8,Inactive,New York,Evening
+Alex Stuart,63,Other,HR,7490,11-03-2023,10,16,Active,New York,Night
+Charlene Nelson,63,Other,Sales,4954,22-11-2021,9,15,Inactive,New York,Night
+Paula Moreno,21,Female,Sales,3896,14-03-2021,8,7,Active,Chicago,Night
+Matthew Rowe,65,Female,Sales,6788,22-01-2024,4,6,Active,New York,Evening
+John Jordan,35,Male,HR,3433,06-09-2020,4,3,Active,Chicago,Night
+April Parsons,46,Other,IT,3132,04-07-2015,2,10,Inactive,Chicago,Evening
+Edgar Herrera MD,65,Female,HR,2959,26-06-2019,8,2,Active,Los Angeles,Evening
+Andres Barnett,50,Female,HR,2736,25-08-2024,1,13,Active,Chicago,Evening
+Elizabeth Miles,25,Other,IT,4977,05-07-2024,2,19,Inactive,Los Angeles,Evening
+Nicholas Edwards,65,Other,Sales,8928,05-04-2020,1,6,Active,Chicago,Evening
+Michael Mejia,53,Male,Sales,8260,30-08-2020,7,15,Inactive,New York,Night
+Michael Reed,50,Male,IT,5639,07-09-2015,3,1,Inactive,New York,Morning
+Kelsey Fischer,22,Male,IT,9049,21-06-2016,5,19,Inactive,Chicago,Night
+James Mendoza,23,Other,Sales,6871,11-04-2016,4,15,Inactive,New York,Morning
+Catherine Kelley,18,Other,IT,3388,26-08-2024,6,19,Inactive,Chicago,Evening
+Brett Myers,37,Male,IT,3288,16-05-2018,2,15,Inactive,Los Angeles,Night
+Bryce Anderson,52,Female,IT,2093,22-09-2020,9,14,Active,New York,Night
+Kimberly Ross,19,Male,Sales,9331,03-07-2018,5,12,Active,New York,Morning
+Larry Johnson,24,Other,Sales,5081,30-10-2020,3,7,Inactive,New York,Morning
+Michael Lee,18,Female,IT,6086,30-05-2019,4,7,Inactive,Los Angeles,Evening
+Crystal Espinoza,55,Female,IT,4952,04-09-2023,2,5,Active,Chicago,Night
+Jeffrey Johnson,28,Male,HR,2244,06-07-2021,4,2,Inactive,Chicago,Night
+Emily Anderson,31,Female,Sales,4921,29-08-2016,10,19,Active,New York,Evening
+Stephen Ponce,46,Other,Sales,8696,14-10-2022,4,1,Active,New York,Evening
+David Moody,43,Male,HR,8830,10-09-2021,9,19,Inactive,Chicago,Evening
+Jeffrey Hall,41,Other,IT,8768,27-08-2018,3,16,Inactive,Los Angeles,Night
+Regina Ferguson,62,Other,HR,8555,21-04-2017,1,14,Inactive,Los Angeles,Morning
+Melissa Bradley,39,Female,IT,9618,05-07-2015,1,13,Active,New York,Morning
+Danielle Brown,31,Female,IT,5605,28-06-2024,8,1,Active,Chicago,Morning
+Hannah Hickman,36,Female,IT,9118,02-07-2022,5,5,Active,New York,Night
+Shannon Meyer,18,Other,HR,9985,05-11-2022,4,18,Active,Chicago,Night
+Amy Johnston,53,Female,HR,3991,03-09-2024,4,8,Active,Chicago,Morning
+William Schultz,23,Other,Sales,4311,17-08-2019,5,10,Inactive,Los Angeles,Evening
+Ashley Daniels,25,Other,Sales,5524,24-11-2022,10,8,Inactive,New York,Morning
+Brandon Bruce,31,Female,HR,3371,25-09-2018,5,12,Inactive,Chicago,Night
+Rachel Phillips,22,Male,IT,3096,27-10-2018,2,7,Inactive,Chicago,Evening
+Pamela Reeves,49,Female,Sales,7652,23-06-2024,4,3,Active,Los Angeles,Evening
+Todd Johnson,29,Female,Sales,6754,20-07-2018,9,12,Inactive,New York,Morning
+Michael Sanchez,18,Male,Sales,5278,05-07-2023,5,3,Active,New York,Morning
+Ashley Taylor,51,Female,IT,5437,18-02-2022,4,9,Inactive,Los Angeles,Evening
+Shawn Scott,45,Male,IT,7364,31-07-2022,2,4,Active,New York,Morning

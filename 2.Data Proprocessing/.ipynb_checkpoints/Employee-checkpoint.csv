@@ -1,0 +1,250 @@
+Department,Gender,Age,Job_Title,Years_At_Company,Education_Level,Performance_Score,Monthly_Salary,Work_Hours_Per_Week,Projects_Handled,Promotions,Resigned,Joining Date
+IT,Male,55,Specialist,2,High School,5,6750,33,32,0,FALSE,03-05-15
+Finance,Male,29,Developer,0,High School,5,7500,34,34,2,FALSE,09-11-20
+Finance,Male,55,Specialist,8,High School,3,5850,37,27,0,FALSE,12-02-19
+Customer Support,Female,48,Analyst,7,Bachelor,2,4800,52,10,1,FALSE,08-09-17
+Engineering,Female,36,Analyst,3,Bachelor,2,4800,38,11,1,FALSE,15-02-20
+IT,Male,43,Manager,8,High School,3,7800,46,31,0,FALSE,24-06-16
+IT,Male,37,Technician,1,Bachelor,5,5250,55,20,0,FALSE,11-05-23
+Engineering,Female,55,Engineer,9,Bachelor,2,7200,42,46,0,FALSE,01-04-15
+Marketing,Female,55,Technician,1,High School,2,4200,51,23,1,FALSE,07-02-24
+Engineering,Female,45,Consultant,7,Bachelor,,6050,41,33,2,FALSE,26-05-18
+Customer Support,Male,52,Engineer,4,Bachelor,3,7800,38,1,1,FALSE,28-01-15
+Customer Support,Male,27,Technician,9,Bachelor,5,5250,39,13,0,FALSE,14-03-15
+HR,Male,51,Technician,5,Bachelor,4,4900,31,11,2,FALSE,21-06-20
+Engineering,Male,27,Analyst,9,Bachelor,4,5600,33,30,1,FALSE,23-06-19
+Finance,Male,46,Analyst,1,Master,,4400,33,49,1,FALSE,01-06-20
+Customer Support,Male,26,Developer,1,High School,2,6000,33,41,1,FALSE,25-07-17
+Operations,Male,29,Engineer,4,Bachelor,2,7200,43,26,2,FALSE,19-02-19
+Sales,Other,28,Developer,1,High School,3,6500,47,36,0,FALSE,18-05-18
+Customer Support,Other,56,Developer,8,Bachelor,,5500,57,9,0,FALSE,16-07-17
+Finance,Male,23,Technician,9,High School,2,4200,52,0,0,FALSE,07-06-23
+Operations,Female,33,Manager,1,Bachelor,1,6600,33,28,2,FALSE,07-02-18
+Sales,Male,59,Manager,7,Master,5,9000,30,22,0,FALSE,04-05-20
+Finance,Male,26,Specialist,8,High School,4,6300,48,40,2,FALSE,16-12-15
+Sales,Male,58,Consultant,6,Master,2,6600,55,2,2,FALSE,30-01-21
+HR,Female,38,Analyst,6,Bachelor,2,4800,50,21,1,FALSE,09-04-22
+Customer Support,Male,38,Specialist,2,Bachelor,5,6750,59,24,2,FALSE,20-02-20
+Finance,Male,45,Engineer,3,Bachelor,2,7200,59,24,1,FALSE,01-05-24
+Legal,Male,43,Manager,9,Master,3,7800,44,42,2,TRUE,07-07-18
+Engineering,Male,53,Specialist,2,Bachelor,2,5400,31,34,1,FALSE,28-10-19
+Finance,Male,52,Analyst,1,High School,3,5200,45,25,2,FALSE,18-08-16
+Customer Support,Male,58,Consultant,6,Bachelor,,6050,38,15,2,FALSE,20-01-20
+Legal,Female,24,Manager,1,High School,4,8400,39,25,0,FALSE,16-12-21
+Customer Support,Male,29,Analyst,0,High School,2,4800,48,49,0,FALSE,10-06-24
+Sales,Female,25,Engineer,2,PhD,4,8400,44,26,2,FALSE,17-08-17
+Marketing,Male,41,Analyst,5,Master,4,5600,34,13,1,FALSE,26-09-17
+HR,Female,42,Engineer,4,Master,5,9000,31,9,1,FALSE,12-06-19
+Sales,Male,43,Consultant,0,High School,2,6600,53,42,1,FALSE,25-02-18
+Sales,Other,46,Consultant,9,Master,2,6600,31,6,0,FALSE,11-04-21
+IT,Male,48,Specialist,2,Bachelor,,4950,46,7,1,FALSE,15-05-16
+HR,Female,58,Engineer,1,Bachelor,5,9000,44,2,1,FALSE,12-08-24
+HR,Female,44,Analyst,3,Bachelor,2,4800,59,45,2,TRUE,29-01-24
+Marketing,Male,29,Specialist,2,High School,4,6300,33,10,2,FALSE,10-11-24
+Customer Support,Male,60,Engineer,8,Bachelor,3,7800,46,48,0,FALSE,22-10-21
+Marketing,Female,43,Manager,3,High School,3,7800,43,25,0,FALSE,19-12-14
+Customer Support,Female,46,Developer,3,Master,2,6000,58,7,1,FALSE,03-10-17
+HR,Female,29,Specialist,8,High School,2,5400,31,19,1,FALSE,31-10-20
+HR,Male,32,Technician,3,Bachelor,4,4900,41,19,2,FALSE,03-09-19
+Operations,Male,31,Specialist,0,Bachelor,,4950,45,31,2,FALSE,03-02-17
+Legal,Male,40,Specialist,8,High School,5,6750,59,49,1,FALSE,25-02-23
+Operations,Other,57,Developer,4,High School,2,6000,53,10,0,FALSE,21-09-23
+Legal,Female,35,Consultant,4,Bachelor,,6050,55,26,1,FALSE,07-12-15
+HR,Male,40,Developer,7,Bachelor,2,6000,46,9,1,FALSE,17-09-23
+Engineering,Male,28,Consultant,9,Bachelor,3,7150,38,34,0,FALSE,26-03-22
+Engineering,Female,37,Technician,8,High School,2,4200,50,22,1,FALSE,07-01-19
+Operations,Female,34,Technician,9,High School,5,5250,32,26,1,TRUE,11-10-23
+Marketing,Female,34,Developer,2,Bachelor,3,6500,41,18,0,FALSE,29-07-20
+Customer Support,Female,33,Specialist,8,PhD,,4950,33,46,2,TRUE,11-08-24
+Finance,Male,23,Developer,5,Bachelor,4,7000,32,42,2,FALSE,09-04-21
+IT,Other,52,Technician,0,High School,3,4550,53,7,2,TRUE,07-02-18
+Customer Support,Female,54,Manager,5,Bachelor,,6600,51,17,1,FALSE,12-04-21
+Operations,Female,34,Consultant,3,Bachelor,2,6600,40,17,1,FALSE,08-02-20
+Engineering,Male,53,Specialist,7,High School,5,6750,43,44,2,FALSE,30-01-23
+Sales,Male,27,Manager,6,Bachelor,3,7800,44,29,1,FALSE,02-06-23
+Finance,Female,58,Manager,6,High School,4,8400,50,10,0,TRUE,17-02-23
+Sales,Female,41,Specialist,5,Bachelor,,4950,41,37,0,FALSE,19-10-19
+Legal,Male,37,Technician,0,Bachelor,4,4900,54,32,1,FALSE,01-01-21
+Sales,Male,49,Manager,7,Master,2,7200,55,30,0,FALSE,21-09-21
+HR,Male,39,Consultant,0,Bachelor,2,6600,53,10,2,FALSE,31-10-24
+Operations,Female,38,Specialist,8,Bachelor,4,6300,52,6,0,FALSE,19-10-17
+Sales,Male,52,Manager,8,Master,,6600,32,2,0,FALSE,28-09-20
+IT,Female,42,Developer,1,High School,1,5500,53,20,1,FALSE,08-04-18
+Engineering,Female,42,Analyst,1,Master,4,5600,53,1,2,FALSE,18-05-19
+Sales,Female,33,Developer,1,Bachelor,2,6000,36,42,0,FALSE,06-04-16
+Legal,Female,47,Developer,4,Bachelor,2,6000,37,6,1,FALSE,21-03-18
+HR,Female,33,Consultant,0,High School,2,6600,31,6,1,FALSE,01-07-23
+Engineering,Male,47,Consultant,6,High School,4,7700,55,36,1,FALSE,20-10-23
+Customer Support,Male,31,Technician,7,PhD,3,4550,32,46,0,FALSE,14-05-15
+Sales,Male,28,Developer,3,Master,5,7500,42,28,1,FALSE,23-02-16
+Legal,Male,46,Consultant,8,High School,3,7150,60,36,2,TRUE,22-05-16
+Customer Support,Female,54,Specialist,5,High School,,4950,31,27,1,FALSE,06-07-19
+Legal,Female,55,Developer,0,Master,3,6500,38,12,0,FALSE,28-07-21
+Customer Support,Female,23,Specialist,7,High School,3,5850,40,19,0,TRUE,12-11-20
+Engineering,Male,46,Analyst,3,Bachelor,2,4800,35,24,0,FALSE,02-11-20
+HR,Female,28,Analyst,8,Master,,4400,53,38,2,FALSE,23-06-17
+Marketing,Female,46,Specialist,8,Bachelor,2,5400,44,16,1,FALSE,01-07-20
+Legal,Female,59,Engineer,9,Bachelor,4,8400,33,11,2,FALSE,04-10-17
+Marketing,Male,55,Technician,4,PhD,3,4550,59,1,2,FALSE,08-01-15
+Marketing,Male,52,Technician,5,Bachelor,2,4200,33,45,0,FALSE,07-01-23
+Finance,Female,27,Engineer,0,Master,2,7200,31,1,1,FALSE,02-08-24
+Customer Support,Female,39,Manager,6,Bachelor,4,8400,33,11,0,FALSE,16-07-20
+Customer Support,Male,55,Consultant,0,Bachelor,2,6600,44,42,2,TRUE,16-03-23
+Legal,Male,48,Developer,5,Bachelor,,5500,42,11,1,TRUE,20-12-23
+Finance,Male,50,Manager,0,High School,4,8400,54,9,2,FALSE,13-03-21
+Engineering,Male,52,Specialist,3,High School,4,6300,44,19,1,FALSE,06-02-23
+Operations,Male,52,Developer,9,High School,,5500,47,4,0,FALSE,29-01-18
+Marketing,Female,30,Manager,5,High School,3,7800,49,24,2,TRUE,08-06-24
+Engineering,Male,58,Specialist,9,PhD,3,5850,45,24,0,FALSE,14-01-17
+Finance,Female,38,Manager,8,High School,3,7800,41,31,0,FALSE,07-08-15
+Sales,Male,24,Developer,4,Bachelor,2,6000,50,33,1,FALSE,15-09-18
+Customer Support,Other,33,Manager,6,Bachelor,3,7800,36,9,1,TRUE,24-12-17
+Finance,Female,45,Engineer,6,High School,4,8400,35,0,0,FALSE,23-01-21
+IT,Female,33,Consultant,4,High School,,6050,54,31,1,TRUE,22-02-20
+IT,Male,33,Consultant,4,Bachelor,3,7150,49,45,2,TRUE,16-09-19
+Engineering,Male,58,Consultant,6,Bachelor,4,7700,59,44,1,FALSE,25-03-23
+Customer Support,Female,55,Technician,5,High School,,3850,58,1,1,FALSE,28-04-21
+Customer Support,Male,46,Manager,2,Bachelor,4,8400,36,1,0,FALSE,06-10-15
+HR,Female,22,Developer,3,Bachelor,4,7000,34,8,0,FALSE,19-12-17
+Operations,Female,37,Engineer,9,Bachelor,4,8400,56,26,2,FALSE,05-01-19
+Sales,Male,56,Consultant,6,Bachelor,,6050,51,24,1,FALSE,24-04-19
+Sales,Male,36,Consultant,5,High School,5,8250,50,32,0,FALSE,10-12-17
+IT,Male,43,Technician,0,Bachelor,2,4200,48,33,2,FALSE,20-08-16
+Finance,Male,39,Analyst,5,Bachelor,,4400,31,5,0,FALSE,30-10-21
+Legal,Female,30,Technician,7,Master,4,4900,34,14,0,FALSE,29-01-16
+Customer Support,Male,35,Consultant,0,Bachelor,4,7700,43,14,2,FALSE,26-03-21
+Legal,Female,48,Specialist,1,Bachelor,2,5400,32,24,1,FALSE,10-05-21
+Customer Support,Female,56,Analyst,3,Bachelor,5,6000,43,5,0,FALSE,10-05-17
+Legal,Male,26,Manager,3,High School,5,9000,33,4,2,FALSE,09-07-16
+IT,Male,38,Consultant,8,PhD,4,7700,54,44,1,FALSE,16-01-21
+IT,Female,27,Manager,4,Bachelor,5,9000,49,12,1,FALSE,02-01-22
+Finance,Male,29,Specialist,3,Bachelor,3,5850,47,15,0,FALSE,26-01-24
+Customer Support,Male,26,Specialist,5,Bachelor,1,4950,49,2,1,FALSE,06-07-24
+Legal,Female,25,Technician,4,High School,,3850,30,42,1,TRUE,12-06-20
+Operations,Female,44,Manager,9,Bachelor,4,8400,53,11,1,FALSE,21-04-17
+Finance,Male,46,Consultant,9,Bachelor,4,7700,35,31,0,FALSE,08-03-18
+IT,Male,28,Engineer,3,High School,3,7800,46,4,2,FALSE,16-10-22
+Marketing,Male,34,Developer,8,High School,,5500,56,6,0,FALSE,25-12-16
+Engineering,Other,59,Consultant,9,Bachelor,2,6600,50,44,0,FALSE,27-11-15
+Sales,Male,31,Consultant,2,Bachelor,2,6600,59,27,2,FALSE,03-05-20
+Sales,Male,51,Developer,1,High School,5,7500,45,8,2,TRUE,21-01-19
+Sales,Other,29,Engineer,4,Bachelor,,6600,39,10,2,FALSE,22-09-19
+Engineering,Male,47,Specialist,9,Master,5,6750,34,14,2,TRUE,07-07-21
+HR,Male,32,Technician,0,Bachelor,5,5250,52,14,0,FALSE,07-08-20
+Marketing,Female,55,Manager,3,High School,3,7800,49,9,0,FALSE,26-06-21
+Operations,Female,29,Consultant,5,High School,2,6600,55,41,1,FALSE,19-01-22
+Operations,Male,24,Consultant,2,Bachelor,2,6600,39,24,0,FALSE,03-08-23
+Sales,Male,23,Analyst,2,Bachelor,5,6000,56,28,0,FALSE,29-09-23
+Legal,Female,35,Analyst,7,Bachelor,2,4800,46,21,1,FALSE,29-06-17
+Customer Support,Male,28,Manager,5,Master,5,9000,40,9,2,FALSE,17-05-20
+Finance,Male,38,Technician,5,High School,2,4200,34,24,0,FALSE,21-08-21
+Legal,Female,39,Specialist,1,High School,,4950,44,4,0,FALSE,18-11-20
+Engineering,Female,23,Analyst,5,Bachelor,2,4800,35,20,1,FALSE,15-08-20
+Customer Support,Male,22,Specialist,3,PhD,3,5850,52,6,1,FALSE,22-10-24
+Legal,Female,60,Specialist,7,Bachelor,2,5400,35,27,0,FALSE,17-07-20
+Customer Support,Female,54,Analyst,7,High School,3,5200,48,49,2,FALSE,07-04-24
+Operations,Female,26,Consultant,1,Bachelor,,6050,53,18,0,FALSE,14-05-19
+Customer Support,Male,43,Consultant,6,Master,2,6600,41,30,2,FALSE,07-07-17
+Legal,Female,57,Engineer,5,Bachelor,1,6600,39,41,0,FALSE,30-01-18
+Sales,Male,58,Analyst,7,Master,3,5200,56,26,2,FALSE,23-09-23
+IT,Female,31,Technician,7,Master,1,3850,59,3,2,FALSE,12-07-23
+Finance,Female,55,Analyst,3,Bachelor,,4400,57,17,0,FALSE,23-10-20
+Operations,Male,59,Consultant,3,Bachelor,4,7700,52,11,0,FALSE,28-09-17
+Sales,Male,25,Manager,1,Bachelor,4,8400,35,10,1,FALSE,26-08-18
+Marketing,Female,54,Technician,9,High School,5,5250,37,49,2,FALSE,31-12-17
+Customer Support,Male,60,Specialist,7,Bachelor,3,5850,49,19,2,FALSE,01-11-23
+Legal,Male,51,Engineer,9,Bachelor,3,7800,53,49,2,FALSE,20-11-18
+Customer Support,Female,35,Specialist,1,Master,,4950,57,30,1,FALSE,03-12-16
+Legal,Male,46,Manager,4,Bachelor,1,6600,34,5,0,FALSE,26-06-21
+Operations,Female,39,Analyst,9,Bachelor,1,4400,55,45,2,FALSE,28-04-15
+Legal,Female,41,Technician,9,Master,,3850,31,36,0,FALSE,31-07-19
+Operations,Female,30,Manager,2,Master,4,8400,52,28,0,TRUE,30-04-18
+Engineering,Male,36,Manager,8,Master,1,6600,39,43,1,FALSE,17-09-24
+HR,Male,32,Technician,4,Bachelor,5,5250,56,35,2,FALSE,20-04-15
+Finance,Male,44,Technician,1,Bachelor,5,5250,32,46,0,FALSE,15-03-17
+Legal,Male,37,Analyst,7,High School,1,4400,43,33,1,TRUE,15-09-16
+Engineering,Male,26,Analyst,3,High School,2,4800,54,26,0,TRUE,15-11-17
+Sales,Female,30,Specialist,4,High School,3,5850,50,29,2,FALSE,12-05-24
+Sales,Male,36,Manager,6,High School,4,8400,51,44,1,FALSE,21-10-18
+Legal,Male,31,Analyst,7,Bachelor,5,6000,49,48,0,FALSE,21-10-23
+Legal,Female,39,Specialist,5,High School,4,6300,53,17,0,FALSE,10-08-22
+Legal,Female,34,Technician,4,High School,,5250,50,22,2,FALSE,07-12-24
+Engineering,Male,23,Manager,1,Bachelor,3,7800,57,49,2,FALSE,04-12-20
+Finance,Male,22,Developer,9,Bachelor,2,6000,52,23,2,FALSE,14-04-23
+Operations,Male,43,Developer,4,PhD,2,6000,39,17,1,FALSE,26-01-22
+Marketing,Female,26,Specialist,4,High School,5,6750,35,30,0,FALSE,10-10-15
+Customer Support,Female,30,Analyst,0,Bachelor,2,4800,56,48,2,FALSE,26-10-15
+Engineering,Female,48,Developer,0,Bachelor,3,6500,57,14,1,TRUE,27-01-19
+HR,Female,54,Consultant,7,Bachelor,3,7150,40,2,1,FALSE,29-05-21
+Customer Support,Male,25,Analyst,7,Bachelor,4,5600,40,42,0,FALSE,12-01-16
+Customer Support,Other,48,Technician,6,Bachelor,2,4200,52,21,2,FALSE,04-06-16
+Legal,Female,53,Manager,8,Master,2,7200,31,36,2,FALSE,08-05-21
+Legal,Male,28,Technician,7,Bachelor,1,3850,36,13,1,TRUE,04-02-15
+Legal,Male,57,Manager,0,Bachelor,2,7200,48,38,2,FALSE,24-10-20
+Sales,Male,48,Technician,6,Bachelor,4,4900,33,26,1,FALSE,07-03-24
+Customer Support,Female,32,Manager,2,Bachelor,5,9000,41,27,2,FALSE,17-01-23
+Finance,Female,33,Technician,9,Bachelor,3,4550,38,30,2,FALSE,20-12-16
+HR,Female,57,Manager,1,Bachelor,4,8400,35,37,2,FALSE,29-12-14
+Legal,Male,38,Engineer,5,Master,4,8400,41,28,0,FALSE,26-08-23
+IT,Female,43,Specialist,2,High School,2,5400,54,14,2,FALSE,10-05-23
+Customer Support,Female,26,Specialist,1,Bachelor,2,5400,33,47,0,TRUE,07-08-21
+Operations,Female,41,Consultant,2,Bachelor,1,6050,39,24,0,FALSE,10-11-21
+HR,Female,37,Analyst,8,Bachelor,4,5600,46,18,0,FALSE,22-08-19
+Engineering,Female,36,Analyst,3,Bachelor,2,4800,39,49,1,TRUE,29-08-18
+Finance,Male,54,Specialist,4,Bachelor,1,4950,59,2,0,FALSE,24-02-21
+IT,Female,45,Analyst,3,Bachelor,2,4800,57,28,0,FALSE,18-01-19
+IT,Female,56,Specialist,7,Master,5,6750,53,19,0,TRUE,25-06-22
+Legal,Female,39,Engineer,1,Master,5,9000,59,16,1,TRUE,31-08-20
+HR,Male,44,Technician,2,High School,1,3850,37,9,2,FALSE,12-07-22
+HR,Female,55,Analyst,3,Bachelor,5,6000,43,14,2,FALSE,21-05-21
+IT,Female,52,Developer,5,Bachelor,1,5500,44,40,0,FALSE,14-04-23
+Operations,Male,27,Consultant,3,Master,1,6050,36,4,2,TRUE,01-01-18
+Finance,Male,45,Analyst,9,Bachelor,5,6000,30,12,1,FALSE,04-08-19
+Operations,Female,54,Specialist,5,Bachelor,3,5850,52,28,2,FALSE,01-10-18
+Engineering,Male,32,Consultant,8,High School,2,6600,47,5,1,FALSE,12-01-21
+Customer Support,Male,52,Analyst,4,Bachelor,2,4800,34,19,0,FALSE,21-02-22
+HR,Female,38,Technician,6,High School,1,3850,32,39,1,FALSE,16-12-18
+Marketing,Male,50,Engineer,1,Bachelor,2,7200,44,10,2,TRUE,09-02-19
+Customer Support,Male,41,Manager,3,Master,4,8400,55,28,2,FALSE,28-12-17
+Sales,Female,40,Developer,7,High School,1,5500,30,20,1,TRUE,05-02-21
+Engineering,Male,43,Developer,8,High School,3,6500,55,49,2,FALSE,29-06-24
+Legal,Male,42,Consultant,9,Bachelor,2,6600,58,39,0,FALSE,11-01-22
+Finance,Female,26,Specialist,3,High School,4,6300,41,47,0,TRUE,30-07-16
+Marketing,Male,36,Manager,4,PhD,2,7200,44,27,2,FALSE,27-10-22
+Operations,Male,28,Developer,1,Bachelor,4,7000,32,16,0,FALSE,02-02-21
+Legal,Female,32,Specialist,4,Master,5,6750,49,5,1,FALSE,11-12-15
+Operations,Female,25,Developer,4,High School,3,6500,34,25,0,FALSE,01-02-16
+Sales,Female,30,Manager,6,Bachelor,3,7800,40,0,2,TRUE,16-10-19
+Operations,Female,42,Engineer,4,Master,2,7200,54,12,0,FALSE,29-06-24
+Legal,Female,22,Analyst,6,High School,4,5600,42,7,0,FALSE,05-11-17
+Engineering,Male,23,Engineer,4,Bachelor,5,9000,55,12,1,FALSE,14-06-16
+Customer Support,Male,52,Engineer,8,Bachelor,4,8400,35,0,1,FALSE,01-05-18
+Operations,Male,25,Consultant,4,High School,2,6600,34,41,1,FALSE,23-11-23
+Customer Support,Male,50,Developer,8,Bachelor,5,7500,32,7,1,FALSE,05-03-17
+Legal,Male,32,Analyst,3,Bachelor,1,4400,45,35,0,FALSE,20-08-20
+Engineering,Female,55,Engineer,2,Bachelor,4,8400,36,22,1,FALSE,30-07-18
+Sales,Female,53,Specialist,3,Master,1,4950,30,21,1,FALSE,15-12-23
+Sales,Female,44,Manager,9,PhD,5,9000,53,0,2,FALSE,27-04-17
+HR,Female,25,Engineer,9,Bachelor,5,9000,45,47,0,FALSE,06-02-19
+Operations,Female,57,Developer,5,Bachelor,2,6000,40,37,2,FALSE,21-01-19
+IT,Male,42,Consultant,3,Bachelor,4,7700,47,29,2,FALSE,16-08-20
+Legal,Female,39,Engineer,2,Bachelor,5,9000,41,8,2,FALSE,11-07-16
+Operations,Male,25,Manager,9,High School,3,7800,58,9,1,FALSE,09-12-15
+Customer Support,Female,27,Analyst,2,High School,3,5200,56,34,1,FALSE,26-03-16
+Sales,Female,32,Technician,9,High School,2,4200,46,28,1,FALSE,17-07-24
+Finance,Female,57,Analyst,2,Master,4,5600,58,38,0,FALSE,13-04-22
+Marketing,Male,32,Analyst,8,Master,4,5600,36,12,2,FALSE,15-02-17
+HR,Female,39,Technician,1,Master,5,5250,57,3,2,FALSE,17-11-22
+Marketing,Other,44,Technician,7,Bachelor,1,3850,53,30,2,FALSE,21-01-19
+Sales,Male,28,Engineer,2,High School,4,8400,38,9,0,FALSE,11-01-23
+Operations,Female,42,Consultant,8,High School,4,7700,53,17,1,FALSE,09-05-15
+Finance,Female,27,Manager,1,High School,4,8400,56,27,2,FALSE,02-01-18
+HR,Male,60,Developer,1,High School,3,6500,54,12,0,TRUE,10-11-23
+Engineering,Male,42,Manager,1,Master,1,6600,41,10,2,FALSE,19-10-21
+Finance,Male,33,Developer,6,High School,2,6000,39,38,2,FALSE,19-02-20
+IT,Female,47,Analyst,2,Bachelor,2,4800,38,44,2,FALSE,19-02-16
+HR,Female,45,Manager,4,Bachelor,5,9000,48,9,1,FALSE,22-11-24
+IT,Female,32,Specialist,2,Bachelor,4,6300,55,46,2,FALSE,24-03-19
+Marketing,Female,24,Technician,7,Bachelor,4,4900,30,33,0,FALSE,17-12-21
+HR,Female,43,Analyst,3,Bachelor,2,4800,57,36,1,FALSE,21-09-24
+Legal,Male,32,Consultant,2,High School,3,7150,35,43,0,FALSE,23-11-18
